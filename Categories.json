@@ -1,0 +1,99 @@
+{
+    "categories": [
+      { "valeur": "all", "texte": "-- Toutes les catégories --" },
+      { "valeur": "2145", "texte": "Film/Vidéo" },
+      { "valeur": "2139", "texte": "Audio" },
+      { "valeur": "2144", "texte": "Application" },
+      { "valeur": "2142", "texte": "Jeu vidéo" },
+      { "valeur": "2140", "texte": "eBook" },
+      { "valeur": "2300", "texte": "Nulled" },
+      { "valeur": "2200", "texte": "Imprimante 3D" },
+      { "valeur": "2141", "texte": "Emulation" },
+      { "valeur": "2143", "texte": "GPS" }
+    ],
+    "sousCategories": {
+      "FilmVidéo": [
+        { "valeur": "all", "texte": "-- Toutes les sous-catégories --" },
+        { "valeur": "2178", "texte": "Animation" },
+        { "valeur": "2179", "texte": "Animation Série" },
+        { "valeur": "2180", "texte": "Concert" },
+        { "valeur": "2181", "texte": "Documentaire" },
+        { "valeur": "2182", "texte": "Emission TV" },
+        { "valeur": "2183", "texte": "Film" },
+        { "valeur": "2184", "texte": "Série TV" },
+        { "valeur": "2185", "texte": "Spectacle" },
+        { "valeur": "2186", "texte": "Sport" },
+        { "valeur": "2187", "texte": "Vidéo-clips" }
+      ],
+      "Audio": [
+        { "valeur": "all", "texte": "-- Toutes les sous-catégories --" },
+        { "valeur": "2147", "texte": "Karaoké" },
+        { "valeur": "2148", "texte": "Musique" },
+        { "valeur": "2150", "texte": "Podcast Radio" },
+        { "valeur": "2149", "texte": "Samples" }
+      ],
+      "Application": [
+        { "valeur": "all", "texte": "-- Toutes les sous-catégories --" },
+        { "valeur": "2177", "texte": "Autre" },
+        { "valeur": "2176", "texte": "Formation" },
+        { "valeur": "2171", "texte": "Linux" },
+        { "valeur": "2172", "texte": "MacOS" },
+        { "valeur": "2174", "texte": "Smartphone" },
+        { "valeur": "2175", "texte": "Tablette" },
+        { "valeur": "2173", "texte": "Windows" }
+      ],
+      "Jeu-vidéo": [
+        { "valeur": "all", "texte": "-- Toutes les sous-catégories --" },
+        { "valeur": "2167", "texte": "Autre" },
+        { "valeur": "2159", "texte": "Linux" },
+        { "valeur": "2160", "texte": "MacOS" },
+        { "valeur": "2162", "texte": "Microsoft" },
+        { "valeur": "2163", "texte": "Nintendo" },
+        { "valeur": "2165", "texte": "Smartphone" },
+        { "valeur": "2164", "texte": "Sony" },
+        { "valeur": "2166", "texte": "Tablette" },
+        { "valeur": "2161", "texte": "Windows" }
+      ],
+      "eBook": [
+        { "valeur": "all", "texte": "-- Toutes les sous-catégories --" },
+        { "valeur": "2151", "texte": "Audio" },
+        { "valeur": "2152", "texte": "Bds" },
+        { "valeur": "2153", "texte": "Comics" },
+        { "valeur": "2154", "texte": "Livres" },
+        { "valeur": "2155", "texte": "Mangas" },
+        { "valeur": "2156", "texte": "Presse" }
+      ],
+      "Nulled": [
+        { "valeur": "all", "texte": "-- Toutes les sous-catégories --" },
+        { "valeur": "2301", "texte": "Wordpress" },
+        { "valeur": "2302", "texte": "Scripts PHP & CMS" },
+        { "valeur": "2303", "texte": "Mobile" },
+        { "valeur": "2304", "texte": "Divers" }
+      ],
+      "Imprimante3D": [
+        { "valeur": "all", "texte": "-- Toutes les sous-catégories --" },
+        { "valeur": "2201", "texte": "Objets" },
+        { "valeur": "2202", "texte": "Personnages" }
+      ],
+      "Emulation": [
+        { "valeur": "all", "texte": "-- Toutes les sous-catégories --" },
+        { "valeur": "2157", "texte": "Emulateurs" },
+        { "valeur": "2158", "texte": "Roms" }
+      ],
+      "GPS": [
+        { "valeur": "all", "texte": "-- Toutes les sous-catégories --" },
+        { "valeur": "2168", "texte": "Applications" },
+        { "valeur": "2169", "texte": "Cartes" },
+        { "valeur": "2170", "texte": "Divers" }
+      ],
+      "XXX": [
+        { "valeur": "all", "texte": "-- Toutes les sous-catégories --" },
+        { "valeur": "2401", "texte": "Ebooks" },
+        { "valeur": "2189", "texte": "Films" },
+        { "valeur": "2190", "texte": "Hentai" },
+        { "valeur": "2191", "texte": "Images" },
+        { "valeur": "2402", "texte": "Jeux" }
+      ]
+    }
+  }
+  
