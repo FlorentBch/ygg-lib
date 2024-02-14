@@ -44,7 +44,7 @@ def testFetch():
         data = response.json()
         # Traitement des données JSON ici
         # Enregistrez les données dans un fichier JSON
-        with open('resultat.json', 'w', encoding='utf-8') as json_file:
+        with open('./Data/resultat.json', 'w', encoding='utf-8') as json_file:
             json.dump(data, json_file, ensure_ascii=False, indent=4)
     else:
         print("Erreur lors de la requête.")
@@ -86,7 +86,7 @@ def AllTopsFilms():
         data = response.json()
         
         # Enregistrez les données dans un fichier JSON
-        with open('Tops.json', 'w', encoding='utf-8') as json_file:
+        with open('./Data/Tops.json', 'w', encoding='utf-8') as json_file:
             json.dump(data, json_file, ensure_ascii=False, indent=4)
             
         print("Les données ont été enregistrées avec succès dans 'Tops.json'.")

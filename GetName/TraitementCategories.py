@@ -10,7 +10,7 @@ def MappageCategories(Code:str)->str:
         str: Texte de la categorie (Application)
     """
     
-    with open("./Categories.json", encoding='utf-8') as f:
+    with open("./Data/Categories.json", encoding='utf-8') as f:
         data = json.load(f)
     
     for cat in data['categories']:
@@ -36,7 +36,7 @@ def TrouverCode(categorie_texte: str) -> str:
     Returns:
         str: Code de la catégorie (par exemple, "2144")
     """
-    with open("./Categories.json", encoding='utf-8') as f:
+    with open("./Data/Categories.json", encoding='utf-8') as f:
         data = json.load(f)
     
     for cat in data['categories']:

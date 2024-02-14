@@ -20,5 +20,5 @@ if __name__ == '__main__':
     print(f"Vous avez trouvé '{len(DictNames)}' torrents ")
     print(DictNames)
     
-    with open("./Section.json", "w") as f:
+    with open("./Data/Section.json", "w") as f:
         json.dump(DictNames, f)
