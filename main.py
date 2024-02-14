@@ -2,7 +2,7 @@ from GetUrl.OfficialYGG import GetUrl
 from GetName.TorrentName import GetNames, FindImageGoogle
 from GetName.TraitementChaine import SuppressionCharVide
 from GetName.TorrentSeedLeech import GetSeedLeech
-from Front.FonctionHtml import GenerateurDivMain
+from Web.FonctionHtml import GenerateurDivMain
 
 import json
 
