@@ -1,1 +1,1 @@
-from SensCritique import GetTop
+from SensCritique import GetTops

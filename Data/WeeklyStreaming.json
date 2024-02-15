@@ -1,0 +1,736 @@
+{
+    "data": {
+        "streamingExplorer": {
+            "myProviders": null,
+            "filters": {
+                "period": {
+                    "min": 1958,
+                    "max": 2024,
+                    "__typename": "Period"
+                },
+                "genres": [
+                    {
+                        "id": 9741,
+                        "name": "Drame",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9742,
+                        "name": "Romance",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9743,
+                        "name": "Action",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9745,
+                        "name": "Science-fiction",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9746,
+                        "name": "Aventure",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9747,
+                        "name": "Fantastique",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9748,
+                        "name": "Comédie",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9749,
+                        "name": "Guerre",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9750,
+                        "name": "Thriller",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9751,
+                        "name": "Épouvante-horreur",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9752,
+                        "name": "Historique",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9753,
+                        "name": "Biopic",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9754,
+                        "name": "Western",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9755,
+                        "name": "Policier",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9756,
+                        "name": "Documentaire",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9757,
+                        "name": "Comédie dramatique",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9758,
+                        "name": "Animation",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9761,
+                        "name": "Péplum",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9762,
+                        "name": "Arts martiaux",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9763,
+                        "name": "Bollywood",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9799,
+                        "name": "Expérimental",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9805,
+                        "name": "Musique",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 13338,
+                        "name": "Mini-série",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 13339,
+                        "name": "Sport",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 13340,
+                        "name": "Jeunesse",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 13341,
+                        "name": "Soap",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 13881,
+                        "name": "Cuisine",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 13915,
+                        "name": "Fantasy",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 13950,
+                        "name": "Josei",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 14026,
+                        "name": "Seinen",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 14030,
+                        "name": "Shōjo",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 14031,
+                        "name": "Shōnen",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 14068,
+                        "name": "Télé-réalité",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 14554,
+                        "name": "Judiciaire",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 14555,
+                        "name": "Érotique",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 14556,
+                        "name": "Kodomo",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 14631,
+                        "name": "Médical",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 14688,
+                        "name": "Talk Show",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 14689,
+                        "name": "Anthologique",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 14718,
+                        "name": "Jeu télévisé & divertissement",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 14719,
+                        "name": "Voyage",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 14720,
+                        "name": "Maison & jardin",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 14722,
+                        "name": "Ecchi",
+                        "__typename": "GenreStreamingItem"
+                    }
+                ],
+                "countries": [
+                    {
+                        "id": 11,
+                        "name": "Argentine",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 14,
+                        "name": "Australie",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 15,
+                        "name": "Autriche",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 21,
+                        "name": "Biélorussie",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Belgique",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 32,
+                        "name": "Brésil",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 35,
+                        "name": "Bulgarie",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 40,
+                        "name": "Canada",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 45,
+                        "name": "Chili",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 46,
+                        "name": "Chine",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 49,
+                        "name": "Colombie",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 54,
+                        "name": "Costa Rica",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 56,
+                        "name": "Croatie",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 60,
+                        "name": "Tchéquie",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 61,
+                        "name": "Danemark",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 64,
+                        "name": "République dominicaine",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 66,
+                        "name": "Égypte",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 73,
+                        "name": "Îles Féroé",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 74,
+                        "name": "Fidji",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 75,
+                        "name": "Finlande",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 76,
+                        "name": "France",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 83,
+                        "name": "Allemagne",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 100,
+                        "name": "Hong Kong",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 101,
+                        "name": "Hongrie",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 102,
+                        "name": "Islande",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 103,
+                        "name": "Inde",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 104,
+                        "name": "Indonésie",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 107,
+                        "name": "Irlande",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 109,
+                        "name": "Israël",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 110,
+                        "name": "Italie",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 112,
+                        "name": "Japon",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 114,
+                        "name": "Jordanie",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 116,
+                        "name": "Kenya",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 119,
+                        "name": "Corée du Sud",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 120,
+                        "name": "Koweït",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 123,
+                        "name": "Lettonie",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 124,
+                        "name": "Liban",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 130,
+                        "name": "Luxembourg",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 132,
+                        "name": "République de Macédoine du Nord",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 138,
+                        "name": "Malte",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 141,
+                        "name": "Mauritanie",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 144,
+                        "name": "Mexique",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 151,
+                        "name": "Maroc",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 152,
+                        "name": "Mozambique",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 157,
+                        "name": "Pays-Bas",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 159,
+                        "name": "Nouvelle-Zélande",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 162,
+                        "name": "Nigéria",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 166,
+                        "name": "Norvège",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 174,
+                        "name": "Pérou",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 175,
+                        "name": "Philippines",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 177,
+                        "name": "Pologne",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 178,
+                        "name": "Portugal",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 179,
+                        "name": "Porto Rico",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 182,
+                        "name": "Roumanie",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 183,
+                        "name": "Russie",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 195,
+                        "name": "Arabie saoudite",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 197,
+                        "name": "Serbie",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 200,
+                        "name": "Singapour",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 202,
+                        "name": "Slovaquie",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 203,
+                        "name": "Slovénie",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 206,
+                        "name": "Afrique du Sud",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 209,
+                        "name": "Espagne",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 215,
+                        "name": "Suède",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 216,
+                        "name": "Suisse",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 218,
+                        "name": "Taïwan",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 220,
+                        "name": "Tanzanie",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 221,
+                        "name": "Thaïlande",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 227,
+                        "name": "Tunisie",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 228,
+                        "name": "Turquie",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 232,
+                        "name": "Ouganda",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 233,
+                        "name": "Ukraine",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 235,
+                        "name": "Royaume-Uni",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 236,
+                        "name": "États-Unis",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 249,
+                        "name": "Zimbabwe",
+                        "__typename": "Country"
+                    }
+                ],
+                "providers": [
+                    {
+                        "id": 1,
+                        "name": "Netflix",
+                        "tablePrefix": "Netflix",
+                        "__typename": "Provider"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Prime Video",
+                        "tablePrefix": "Prime Video",
+                        "__typename": "Provider"
+                    },
+                    {
+                        "id": 3,
+                        "name": "OCS",
+                        "tablePrefix": "OCS",
+                        "__typename": "Provider"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Canal+",
+                        "tablePrefix": "Canal+",
+                        "__typename": "Provider"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Apple TV+",
+                        "tablePrefix": "Apple TV+",
+                        "__typename": "Provider"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Disney+",
+                        "tablePrefix": "Disney+",
+                        "__typename": "Provider"
+                    },
+                    {
+                        "id": 9,
+                        "name": "France TV",
+                        "tablePrefix": "France TV",
+                        "__typename": "Provider"
+                    },
+                    {
+                        "id": 10,
+                        "name": "Madelen",
+                        "tablePrefix": "Madelen",
+                        "__typename": "Provider"
+                    }
+                ],
+                "__typename": "StreamingFilters"
+            },
+            "products": [
+                {
+                    "id": 50328248,
+                    "rating": 7.4,
+                    "slug": "a_killer_paradox",
+                    "title": "A Killer Paradox",
+                    "universe": 4,
+                    "url": "/serie/a_killer_paradox/50328248",
+                    "yearOfProduction": 2024,
+                    "medias": {
+                        "backdrop": "https://media.senscritique.com/media/000021853108/1200/a_killer_paradox.png",
+                        "picture": "https://media.senscritique.com/media/000021905806/300/a_killer_paradox.png",
+                        "screenshot": "https://media.senscritique.com/missing/701/300x0/missing.png",
+                        "__typename": "ProductMedia"
+                    },
+                    "__typename": "Product",
+                    "scoutsAverage": null,
+                    "currentUserInfos": null,
+                    "providers": [
+                        {
+                            "providerId": 1,
+                            "name": "Netflix",
+                            "webUrl": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTItMCIsImRhdGEiOnsicHJvdmlkZXIiOiJOZXRmbGl4IiwibW9uZXRpemF0aW9uVHlwZSI6ImZsYXRyYXRlIiwicHJlc2VudGF0aW9uVHlwZSI6IjRrIiwiY3VycmVuY3kiOiJFVVIiLCJwcmljZSI6MCwib3JpZ2luYWxQcmljZSI6MCwiYXVkaW9MYW5ndWFnZSI6IiIsInN1YnRpdGxlTGFuZ3VhZ2UiOiIiLCJjaW5lbWFJZCI6MCwic2hvd3RpbWUiOiIiLCJpc0Zhdm9yaXRlQ2luZW1hIjpmYWxzZSwicGFydG5lcklkIjo5LCJwcm92aWRlcklkIjo4LCJjbGlja291dFR5cGUiOiJqdy1jb250ZW50LXBhcnRuZXItZXhwb3J0LWFwaSJ9fSx7InNjaGVtYSI6ImlnbHU6Y29tLmp1c3R3YXRjaC90aXRsZV9jb250ZXh0L2pzb25zY2hlbWEvMS0wLTAiLCJkYXRhIjp7InRpdGxlSWQiOjM1Mzc2NCwib2JqZWN0VHlwZSI6InNob3ciLCJqd0VudGl0eUlkIjoidHMzNTM3NjQifX1dfQ&r=http%3A%2F%2Fwww.netflix.com%2Ftitle%2F81607354&uct_country=fr",
+                            "__typename": "ProductProvider"
+                        }
+                    ]
+                },
+                {
+                    "id": 46541587,
+                    "rating": null,
+                    "slug": "the_new_look",
+                    "title": "The New Look",
+                    "universe": 4,
+                    "url": "/serie/the_new_look/46541587",
+                    "yearOfProduction": 2024,
+                    "medias": {
+                        "backdrop": "https://media.senscritique.com/media/000021741520/1200/the_new_look.jpg",
+                        "picture": "https://media.senscritique.com/media/000021916595/300/the_new_look.jpg",
+                        "screenshot": "https://media.senscritique.com/missing/701/300x0/missing.png",
+                        "__typename": "ProductMedia"
+                    },
+                    "__typename": "Product",
+                    "scoutsAverage": null,
+                    "currentUserInfos": null,
+                    "providers": [
+                        {
+                            "providerId": 6,
+                            "name": "Apple TV+",
+                            "webUrl": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTMtMCIsImRhdGEiOnsicHJvdmlkZXIiOiJBcHBsZSBUViBQbHVzIiwibW9uZXRpemF0aW9uVHlwZSI6ImZsYXRyYXRlIiwicHJlc2VudGF0aW9uVHlwZSI6IjRrIiwiY3VycmVuY3kiOiJFVVIiLCJwcmljZSI6MCwib3JpZ2luYWxQcmljZSI6MCwiYXVkaW9MYW5ndWFnZSI6IiIsInN1YnRpdGxlTGFuZ3VhZ2UiOiIiLCJjaW5lbWFJZCI6MCwic2hvd3RpbWUiOiIiLCJpc0Zhdm9yaXRlQ2luZW1hIjpmYWxzZSwicGFydG5lcklkIjo5LCJwcm92aWRlcklkIjozNTAsImNsaWNrb3V0VHlwZSI6Imp3LWNvbnRlbnQtcGFydG5lci1hcGkiLCJjb250ZW50VHlwZSI6IiJ9fSx7InNjaGVtYSI6ImlnbHU6Y29tLmp1c3R3YXRjaC90aXRsZV9jb250ZXh0L2pzb25zY2hlbWEvMS0wLTAiLCJkYXRhIjp7InRpdGxlSWQiOjMzMDg3NSwib2JqZWN0VHlwZSI6InNob3ciLCJqd0VudGl0eUlkIjoidHMzMzA4NzUifX1dfQ&r=https%3A%2F%2Ftv.apple.com%2Ffr%2Fepisode%2Fjust-you-wait-and-see%2Fumc.cmc.6mwqp33yo850cczmbnn2czngp%3Fat%3D1000l3V2%26ct%3Dapp_tvplus%26itscg%3D30200%26itsct%3Djustwatch_tv_12%26playableId%3Dtvs.sbd.4000%253AA0012001001%26showId%3Dumc.cmc.6m0i5dcn60uzl206qq6ibomeh&uct_country=fr",
+                            "__typename": "ProductProvider"
+                        }
+                    ]
+                },
+                {
+                    "id": 56528316,
+                    "rating": 6.9,
+                    "slug": "enterrement_de_vie_de_garcon",
+                    "title": "Enterrement de vie de garçon",
+                    "universe": 4,
+                    "url": "/serie/enterrement_de_vie_de_garcon/56528316",
+                    "yearOfProduction": 2024,
+                    "medias": {
+                        "backdrop": "https://media.senscritique.com/media/000021883616/1200/enterrement_de_vie_de_garcon.jpg",
+                        "picture": "https://media.senscritique.com/media/000021880234/300/enterrement_de_vie_de_garcon.jpg",
+                        "screenshot": "https://media.senscritique.com/missing/701/300x0/missing.png",
+                        "__typename": "ProductMedia"
+                    },
+                    "__typename": "Product",
+                    "scoutsAverage": null,
+                    "currentUserInfos": null,
+                    "providers": [
+                        {
+                            "providerId": 4,
+                            "name": "Canal+",
+                            "webUrl": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTItMCIsImRhdGEiOnsicHJvdmlkZXIiOiJDYW5hbCsiLCJtb25ldGl6YXRpb25UeXBlIjoiZmxhdHJhdGUiLCJwcmVzZW50YXRpb25UeXBlIjoiaGQiLCJjdXJyZW5jeSI6IkVVUiIsInByaWNlIjowLCJvcmlnaW5hbFByaWNlIjowLCJhdWRpb0xhbmd1YWdlIjoiIiwic3VidGl0bGVMYW5ndWFnZSI6IiIsImNpbmVtYUlkIjowLCJzaG93dGltZSI6IiIsImlzRmF2b3JpdGVDaW5lbWEiOmZhbHNlLCJwYXJ0bmVySWQiOjksInByb3ZpZGVySWQiOjM4MSwiY2xpY2tvdXRUeXBlIjoianctY29udGVudC1wYXJ0bmVyLWV4cG9ydC1hcGkifX0seyJzY2hlbWEiOiJpZ2x1OmNvbS5qdXN0d2F0Y2gvdGl0bGVfY29udGV4dC9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6eyJ0aXRsZUlkIjo0MTgwNzMsIm9iamVjdFR5cGUiOiJzaG93IiwiandFbnRpdHlJZCI6InRzNDE4MDczIn19XX0&r=https%3A%2F%2Fwww.mycanal.fr%2Fseries%2Fenterrement-de-vie-de-garcon%2Fh%2F23440591_50001%3Fparams%5BepisodeId%5D%3D23437960_50001&uct_country=fr",
+                            "__typename": "ProductProvider"
+                        }
+                    ]
+                }
+            ],
+            "total": 3,
+            "__typename": "StreamingExplorer"
+        }
+    }
+}
