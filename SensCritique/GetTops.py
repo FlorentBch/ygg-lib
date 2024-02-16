@@ -821,7 +821,7 @@ def ScrapIntegralite():
     FetchMonthlyStreaming()
     FetchWeeklyStreaming()
 
-def FetchPoll(id):
+def FetchUniquePoll(id):
     url = "https://apollo.senscritique.com/"
     
     headers = {
@@ -1006,24 +1006,14 @@ def FetchPoll(id):
             
         return ("Les données ont été enregistrées avec succès dans "+NomFichier)
     
-def testAllPoll():
+def FetchAllPoll():
     with open("C:/Users/Florent/Documents/ygg-lib/Data/SC_ListTopsFilms.json", encoding='utf-8') as f:
         data = json.load(f)
     totalItems = data['data']['polls']['total']
     for i in range(totalItems):
         ListData = data['data']['polls']['items'][i]['id']
-        print(str(i)+"/"+str(totalItems)+" : "+FetchPoll(ListData))
+        print(str(i)+"/"+str(totalItems)+" : "+FetchUniquePoll(ListData))
 
-FetchListTopsFilms()
-# FetchPoll(2457925)
-testAllPoll()
-
-
-
-                # {
-                #     "cover": "https://media.senscritique.com/media/media/000018636959/480x0/cover.jpg",
-                #     "id": 2457925, / 1006181
-                #     "label": "Les films avec la meilleure ambiance/atmosphère",
-                #     "url": "/top/resultats/les_films_avec_la_meilleure_ambiance_atmosphere/2457925"
-                # },
-                # Gerer le cas du slash (/) dans le nom du label
+# FetchListTopsFilms()
+# FetchUniquePoll()
+# FetchAllPoll()

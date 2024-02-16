@@ -31,3 +31,5 @@ Scraper les données quotidienement que pour les top du jour (recupération du t
 Scraper chaque dimanche dans la nuit pour récupérer les données hebdomadaire des plateformes
 
 Pourquoi pas se focaliser uniquements sur les films et series en premier lieu et exlure les autres torrent ?
+
+Faire une partie film et serie animé (MyAnimeList ?)
