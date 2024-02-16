@@ -72,14 +72,14 @@
                     "url": "/film/la_passion_de_dodin_bouffant/55674630"
                 },
                 {
-                    "id": 47350862,
-                    "title": "Bonne conduite",
-                    "url": "/film/bonne_conduite/47350862"
-                },
-                {
                     "id": 55007517,
                     "title": "Vermines",
                     "url": "/film/vermines/55007517"
+                },
+                {
+                    "id": 47350862,
+                    "title": "Bonne conduite",
+                    "url": "/film/bonne_conduite/47350862"
                 },
                 {
                     "id": 44859204,
@@ -102,6 +102,11 @@
                     "url": "/film/jeanne_du_barry/46174223"
                 },
                 {
+                    "id": 45282927,
+                    "title": "Les Rascals",
+                    "url": "/film/les_rascals/45282927"
+                },
+                {
                     "id": 46531865,
                     "title": "Alibi.com 2",
                     "url": "/film/alibi_com_2/46531865"
@@ -110,11 +115,6 @@
                     "id": 45395182,
                     "title": "Voyages en Italie",
                     "url": "/film/voyages_en_italie/45395182"
-                },
-                {
-                    "id": 45282927,
-                    "title": "Les Rascals",
-                    "url": "/film/les_rascals/45282927"
                 },
                 {
                     "id": 46568077,
@@ -127,14 +127,14 @@
                     "url": "/film/dalva/47459319"
                 },
                 {
-                    "id": 46766984,
-                    "title": "Youssef Salem a du succès",
-                    "url": "/film/youssef_salem_a_du_succes/46766984"
-                },
-                {
                     "id": 43517612,
                     "title": "Les Trois Mousquetaires - Milady",
                     "url": "/film/les_trois_mousquetaires_milady/43517612"
+                },
+                {
+                    "id": 46766984,
+                    "title": "Youssef Salem a du succès",
+                    "url": "/film/youssef_salem_a_du_succes/46766984"
                 },
                 {
                     "id": 47987937,
@@ -162,14 +162,14 @@
                     "url": "/film/omar_la_fraise/48035723"
                 },
                 {
-                    "id": 45419820,
-                    "title": "Le Gang des Bois du Temple",
-                    "url": "/film/le_gang_des_bois_du_temple/45419820"
-                },
-                {
                     "id": 47243229,
                     "title": "L'Île rouge",
                     "url": "/film/l_ile_rouge/47243229"
+                },
+                {
+                    "id": 45419820,
+                    "title": "Le Gang des Bois du Temple",
+                    "url": "/film/le_gang_des_bois_du_temple/45419820"
                 },
                 {
                     "id": 24411806,
@@ -192,14 +192,14 @@
                     "url": "/film/acide/45177658"
                 },
                 {
-                    "id": 47466885,
-                    "title": "La Syndicaliste",
-                    "url": "/film/la_syndicaliste/47466885"
-                },
-                {
                     "id": 46968804,
                     "title": "Une année difficile",
                     "url": "/film/une_annee_difficile/46968804"
+                },
+                {
+                    "id": 47466885,
+                    "title": "La Syndicaliste",
+                    "url": "/film/la_syndicaliste/47466885"
                 },
                 {
                     "id": 55476618,
@@ -212,14 +212,14 @@
                     "url": "/film/conann/44549032"
                 },
                 {
-                    "id": 52434050,
-                    "title": "Les Algues vertes",
-                    "url": "/film/les_algues_vertes/52434050"
-                },
-                {
                     "id": 45641567,
                     "title": "L'Astronaute",
                     "url": "/film/l_astronaute/45641567"
+                },
+                {
+                    "id": 52434050,
+                    "title": "Les Algues vertes",
+                    "url": "/film/les_algues_vertes/52434050"
                 },
                 {
                     "id": 54218449,
@@ -247,6 +247,11 @@
                     "url": "/film/l_etabli/45446142"
                 },
                 {
+                    "id": 48429392,
+                    "title": "Farang",
+                    "url": "/film/farang/48429392"
+                },
+                {
                     "id": 56275378,
                     "title": "Cash",
                     "url": "/film/cash/56275378"
@@ -255,11 +260,6 @@
                     "id": 55163811,
                     "title": "Le Consentement",
                     "url": "/film/le_consentement/55163811"
-                },
-                {
-                    "id": 48429392,
-                    "title": "Farang",
-                    "url": "/film/farang/48429392"
                 },
                 {
                     "id": 55502044,
@@ -287,6 +287,11 @@
                     "url": "/film/goutte_d_or/47264894"
                 },
                 {
+                    "id": 47764229,
+                    "title": "Rien à perdre",
+                    "url": "/film/rien_a_perdre/47764229"
+                },
+                {
                     "id": 54501989,
                     "title": "Simple comme Sylvain",
                     "url": "/film/simple_comme_sylvain/54501989"
@@ -307,19 +312,14 @@
                     "url": "/film/batiment_5/52433954"
                 },
                 {
-                    "id": 47997269,
-                    "title": "Les Petites Victoires",
-                    "url": "/film/les_petites_victoires/47997269"
-                },
-                {
                     "id": 46766987,
                     "title": "L'Envol",
                     "url": "/film/l_envol/46766987"
                 },
                 {
-                    "id": 47764229,
-                    "title": "Rien à perdre",
-                    "url": "/film/rien_a_perdre/47764229"
+                    "id": 47997269,
+                    "title": "Les Petites Victoires",
+                    "url": "/film/les_petites_victoires/47997269"
                 },
                 {
                     "id": 45500061,
@@ -352,6 +352,11 @@
                     "url": "/film/houria/45406886"
                 },
                 {
+                    "id": 51442586,
+                    "title": "La Tresse",
+                    "url": "/film/la_tresse/51442586"
+                },
+                {
                     "id": 47452171,
                     "title": "Atlantic Bar",
                     "url": "/film/atlantic_bar/47452171"
@@ -362,19 +367,9 @@
                     "url": "/film/pour_la_france/45440632"
                 },
                 {
-                    "id": 45383847,
-                    "title": "Nos cérémonies",
-                    "url": "/film/nos_ceremonies/45383847"
-                },
-                {
                     "id": 55812252,
                     "title": "Little Girl Blue",
                     "url": "/film/little_girl_blue/55812252"
-                },
-                {
-                    "id": 51442586,
-                    "title": "La Tresse",
-                    "url": "/film/la_tresse/51442586"
                 },
                 {
                     "id": 53559959,
@@ -382,14 +377,14 @@
                     "url": "/film/la_voie_royale/53559959"
                 },
                 {
+                    "id": 45383847,
+                    "title": "Nos cérémonies",
+                    "url": "/film/nos_ceremonies/45383847"
+                },
+                {
                     "id": 55558328,
                     "title": "Voleuses",
                     "url": "/film/voleuses/55558328"
-                },
-                {
-                    "id": 45432262,
-                    "title": "Disco Boy",
-                    "url": "/film/disco_boy/45432262"
                 },
                 {
                     "id": 55674672,
@@ -397,9 +392,9 @@
                     "url": "/film/les_filles_d_olfa/55674672"
                 },
                 {
-                    "id": 48668080,
-                    "title": "Divertimento",
-                    "url": "/film/divertimento/48668080"
+                    "id": 45432262,
+                    "title": "Disco Boy",
+                    "url": "/film/disco_boy/45432262"
                 },
                 {
                     "id": 47309168,
@@ -410,6 +405,11 @@
                     "id": 46655985,
                     "title": "Le Temps d’aimer",
                     "url": "/film/le_temps_daimer/46655985"
+                },
+                {
+                    "id": 48668080,
+                    "title": "Divertimento",
+                    "url": "/film/divertimento/48668080"
                 },
                 {
                     "id": 47728408,
@@ -432,14 +432,14 @@
                     "url": "/film/apaches/44878291"
                 },
                 {
-                    "id": 51491277,
-                    "title": "Gueules noires",
-                    "url": "/film/gueules_noires/51491277"
-                },
-                {
                     "id": 45175860,
                     "title": "Visions",
                     "url": "/film/visions/45175860"
+                },
+                {
+                    "id": 51491277,
+                    "title": "Gueules noires",
+                    "url": "/film/gueules_noires/51491277"
                 },
                 {
                     "id": 47728401,
@@ -467,9 +467,9 @@
                     "url": "/film/la_bete_dans_la_jungle/45495229"
                 },
                 {
-                    "id": 53890805,
-                    "title": "Wahou !",
-                    "url": "/film/wahou/53890805"
+                    "id": 44887355,
+                    "title": "Soudain seuls",
+                    "url": "/film/soudain_seuls/44887355"
                 },
                 {
                     "id": 49215368,
@@ -477,14 +477,14 @@
                     "url": "/film/une_histoire_d_amour/49215368"
                 },
                 {
+                    "id": 53890805,
+                    "title": "Wahou !",
+                    "url": "/film/wahou/53890805"
+                },
+                {
                     "id": 53512335,
                     "title": "Antigang - La Relève",
                     "url": "/film/antigang_la_releve/53512335"
-                },
-                {
-                    "id": 47837808,
-                    "title": "Miraculous - Le film",
-                    "url": "/film/miraculous_le_film/47837808"
                 },
                 {
                     "id": 47739862,
@@ -492,9 +492,9 @@
                     "url": "/film/saules_aveugles_femme_endormie/47739862"
                 },
                 {
-                    "id": 44887355,
-                    "title": "Soudain seuls",
-                    "url": "/film/soudain_seuls/44887355"
+                    "id": 47837808,
+                    "title": "Miraculous - Le film",
+                    "url": "/film/miraculous_le_film/47837808"
                 },
                 {
                     "id": 49354254,
@@ -560,7 +560,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 21503
+                        "ratingCount": 21518
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -651,7 +651,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 14409
+                        "ratingCount": 14417
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -749,7 +749,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 15182
+                        "ratingCount": 15188
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -853,7 +853,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 11903
+                        "ratingCount": 11915
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -930,7 +930,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 8394
+                        "ratingCount": 8403
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -992,7 +992,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 5319
+                        "ratingCount": 5328
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -1068,7 +1068,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 17200
+                        "ratingCount": 17201
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -1176,7 +1176,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 6929
+                        "ratingCount": 6932
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -1266,7 +1266,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 7196
+                        "ratingCount": 7200
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -1353,7 +1353,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 7411
+                        "ratingCount": 7413
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -1499,7 +1499,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 1754
+                        "ratingCount": 1755
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -1569,7 +1569,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 4252
+                        "ratingCount": 4253
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -1631,7 +1631,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 4520
+                        "ratingCount": 4521
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -1687,7 +1687,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 4319
+                        "ratingCount": 4321
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -2019,7 +2019,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 4404
+                        "ratingCount": 4405
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -2075,7 +2075,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 1707
+                        "ratingCount": 1708
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -2147,7 +2147,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 3034
+                        "ratingCount": 3036
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -2376,7 +2376,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 1398
+                        "ratingCount": 1400
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -2424,7 +2424,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 1725
+                        "ratingCount": 1728
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -2562,7 +2562,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 1993
+                        "ratingCount": 1995
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -2652,7 +2652,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 3427
+                        "ratingCount": 3430
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -2821,7 +2821,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 10590
+                        "ratingCount": 10592
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -3023,7 +3023,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 2414
+                        "ratingCount": 2416
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -3084,7 +3084,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 3717
+                        "ratingCount": 3729
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -3147,7 +3147,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 1788
+                        "ratingCount": 1789
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -3195,7 +3195,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 1823
+                        "ratingCount": 1825
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -3316,7 +3316,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 1144
+                        "ratingCount": 1145
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -3367,7 +3367,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 2509
+                        "ratingCount": 2515
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -3419,7 +3419,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 1235
+                        "ratingCount": 1237
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -3523,7 +3523,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 4964
+                        "ratingCount": 4968
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -3596,7 +3596,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 2548
+                        "ratingCount": 2549
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -3644,7 +3644,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 1199
+                        "ratingCount": 1200
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -3751,7 +3751,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 2769
+                        "ratingCount": 2770
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -3810,7 +3810,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 2166
+                        "ratingCount": 2174
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -3930,7 +3930,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 1447
+                        "ratingCount": 1448
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -3993,7 +3993,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 772
+                        "ratingCount": 773
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -4206,7 +4206,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 5092
+                        "ratingCount": 5096
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -4266,7 +4266,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 1511
+                        "ratingCount": 1512
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -4352,7 +4352,7 @@
                     "frenchReleaseDate": "2023-12-06",
                     "id": 52433954,
                     "numberOfSeasons": 0,
-                    "rating": 6,
+                    "rating": 6.1,
                     "slug": "batiment_5",
                     "subtitle": null,
                     "title": "Bâtiment 5",
@@ -4386,7 +4386,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 1418
+                        "ratingCount": 1421
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -4665,7 +4665,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 897
+                        "ratingCount": 898
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -4906,7 +4906,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 1439
+                        "ratingCount": 1440
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -4954,7 +4954,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 611
+                        "ratingCount": 613
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -5113,7 +5113,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 1011
+                        "ratingCount": 1012
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -5218,7 +5218,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 4362
+                        "ratingCount": 4365
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -5293,7 +5293,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 2098
+                        "ratingCount": 2099
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -5813,7 +5813,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 1445
+                        "ratingCount": 1446
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -5867,7 +5867,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 705
+                        "ratingCount": 713
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -6043,7 +6043,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 1787
+                        "ratingCount": 1788
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -6155,7 +6155,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 558
+                        "ratingCount": 559
                     },
                     "albums": null,
                     "currentUserInfos": null,

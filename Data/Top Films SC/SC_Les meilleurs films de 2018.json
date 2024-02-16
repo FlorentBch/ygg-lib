@@ -564,7 +564,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 37665
+                        "ratingCount": 37666
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -703,7 +703,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 31530
+                        "ratingCount": 31531
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -848,7 +848,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 32224
+                        "ratingCount": 32226
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -980,7 +980,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 50293
+                        "ratingCount": 50294
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -1116,7 +1116,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 43017
+                        "ratingCount": 43019
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -1256,7 +1256,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 42774
+                        "ratingCount": 42776
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -1397,7 +1397,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 31344
+                        "ratingCount": 31347
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -1661,7 +1661,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 35295
+                        "ratingCount": 35296
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -1905,7 +1905,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 33788
+                        "ratingCount": 33791
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -2288,7 +2288,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 39103
+                        "ratingCount": 39105
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -2671,7 +2671,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 13843
+                        "ratingCount": 13845
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -2800,7 +2800,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 19490
+                        "ratingCount": 19493
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -2929,7 +2929,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 20529
+                        "ratingCount": 20530
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -3062,7 +3062,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 10524
+                        "ratingCount": 10525
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -3177,7 +3177,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 16067
+                        "ratingCount": 16069
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -3307,7 +3307,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 30433
+                        "ratingCount": 30434
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -3432,7 +3432,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 9650
+                        "ratingCount": 9649
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -3541,7 +3541,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 19345
+                        "ratingCount": 19347
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -3799,7 +3799,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 37951
+                        "ratingCount": 37953
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -3964,16 +3964,16 @@
                         },
                         {
                             "poll": {
-                                "id": 837912,
-                                "label": "Les meilleurs films latino-américains",
-                                "url": "/top/resultats/les_meilleurs_films_latino_americains/837912"
+                                "id": 2427258,
+                                "label": "Oscar du meilleur film 2019",
+                                "url": "/top/resultats/oscar_du_meilleur_film_2019/2427258"
                             }
                         },
                         {
                             "poll": {
-                                "id": 2427258,
-                                "label": "Oscar du meilleur film 2019",
-                                "url": "/top/resultats/oscar_du_meilleur_film_2019/2427258"
+                                "id": 837912,
+                                "label": "Les meilleurs films latino-américains",
+                                "url": "/top/resultats/les_meilleurs_films_latino_americains/837912"
                             }
                         },
                         {
@@ -4245,7 +4245,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 24872
+                        "ratingCount": 24873
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -4512,7 +4512,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 29658
+                        "ratingCount": 29662
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -4641,7 +4641,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 21394
+                        "ratingCount": 21397
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -4773,7 +4773,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 13541
+                        "ratingCount": 13542
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -5111,7 +5111,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 24920
+                        "ratingCount": 24922
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -5556,7 +5556,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 9404
+                        "ratingCount": 9405
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -6719,7 +6719,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 8412
+                        "ratingCount": 8413
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -6871,7 +6871,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 7698
+                        "ratingCount": 7699
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -7349,7 +7349,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 22249
+                        "ratingCount": 22251
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -7571,7 +7571,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 19254
+                        "ratingCount": 19257
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -7839,7 +7839,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 5782
+                        "ratingCount": 5783
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -8202,7 +8202,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 20493
+                        "ratingCount": 20494
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -8990,7 +8990,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 7720
+                        "ratingCount": 7721
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -9630,7 +9630,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 7658
+                        "ratingCount": 7659
                     },
                     "albums": null,
                     "currentUserInfos": null,
@@ -10094,7 +10094,7 @@
                         }
                     ],
                     "stats": {
-                        "ratingCount": 17421
+                        "ratingCount": 17423
                     },
                     "albums": null,
                     "currentUserInfos": null,
