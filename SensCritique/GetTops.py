@@ -7,6 +7,11 @@ import json
 # https://www.senscritique.com/films/tops/top111
 # https://www.senscritique.com/series/streaming?universe=tvShow
 
+def stripCharPath(chaine):
+    nouvelle_chaine = chaine.replace('/', ' & ')
+    nouvelle_chaine = nouvelle_chaine.replace('"', '')
+    return nouvelle_chaine
+
 def testFetch():
 
     url = 'https://apollo.senscritique.com/'
@@ -989,29 +994,35 @@ def FetchPoll(id):
 
     if response.status_code == 200:
         data = response.json()
-
+        NomFichier = data['data']['poll']['label']
+        
+        if NomFichier.count('/') > 0 or NomFichier.count('"') > 0:
+            NomFichier = stripCharPath(NomFichier)
+            
+        NamePath = './Data/Top Films SC/SC_'+NomFichier+'.json'
         # Enregistrez les données dans un fichier JSON
-        with open('./Data/Top Films SC/SC_'+data['data']['poll']['label']+'.json', 'w', encoding='utf-8') as json_file:
+        with open(NamePath, 'w', encoding='utf-8') as json_file:
             json.dump(data, json_file, ensure_ascii=False, indent=4)
             
-        print("Les données ont été enregistrées avec succès dans 'SC_"+data['data']['poll']['label']+".json'.")
-    else:
-        print("Erreur lors de la requête.")
-
+        return ("Les données ont été enregistrées avec succès dans "+NomFichier)
+    
 def testAllPoll():
-    with open("C:/Users/FlorentBUCHET/Documents/ygg-lib/Data/SC_ListTopsFilms.json", encoding='utf-8') as f:
+    with open("C:/Users/Florent/Documents/ygg-lib/Data/SC_ListTopsFilms.json", encoding='utf-8') as f:
         data = json.load(f)
     totalItems = data['data']['polls']['total']
     for i in range(totalItems):
         ListData = data['data']['polls']['items'][i]['id']
-        FetchPoll(ListData)
+        print(str(i)+"/"+str(totalItems)+" : "+FetchPoll(ListData))
 
 FetchListTopsFilms()
+# FetchPoll(2457925)
 testAllPoll()
+
+
 
                 # {
                 #     "cover": "https://media.senscritique.com/media/media/000018636959/480x0/cover.jpg",
-                #     "id": 2457925,
+                #     "id": 2457925, / 1006181
                 #     "label": "Les films avec la meilleure ambiance/atmosphère",
                 #     "url": "/top/resultats/les_films_avec_la_meilleure_ambiance_atmosphere/2457925"
                 # },
