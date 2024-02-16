@@ -25,7 +25,6 @@ def MappageCategories(Code:str)->str:
             if sous_cat["valeur"] == Code:
                 return sous_cat["texte"]
             
-import json
 
 def TrouverCode(categorie_texte: str) -> str:
     """Trouver le code à partir du texte de la catégorie
@@ -53,8 +52,3 @@ def TrouverCode(categorie_texte: str) -> str:
     
     # Si la catégorie n'est pas trouvée, vous pouvez retourner une valeur par défaut ou lever une exception selon le cas.
     return "Code non trouvé"
-
-# Exemple d'utilisation
-categorie_texte_input = "Application"
-code_resultat = TrouverCode(categorie_texte_input)
-print(f"Code trouvé pour '{categorie_texte_input}': {code_resultat}")

@@ -4,6 +4,7 @@ from GetUrl.RandomAgent import RandomAgent
 from GetName.TraitementChaine import SuppressionCharVide
 from GetName.TraitementCategories import MappageCategories, TrouverCode
 from bs4 import BeautifulSoup
+import json
 
 def FindImageGoogle(Titre:str):
 
@@ -75,3 +76,70 @@ def GetNames(name:str,description:str,file:str,uploader:str,category:str,sub_cat
     CleanDict = SuppressionCharVide(YggDict)
     print(Url)
     return CleanDict
+
+def AddUrlYggInDb_SC(name:str)->dict:
+    """Retourne les noms et URL des torrents par page
+
+    Args:
+        name (str): Nom du torrent
+        description (str): description du torrent
+        file (str): _description_
+        uploader (str): Nom de l'uploader
+        category (str): Categorie du torrent
+        sub_category (str): Sous-categorie du torrent
+        order (str): Trie par Desc ou Asc
+        sort (str): Trie sur quel paramètre (seed, leech, etc)
+        page (int): Nombre de film au total (50 par page)
+
+    Returns:
+        dict: Dictionnaire de clés/ Valeurs (Nom du torrent/ URL du torrent)
+    """
+    Url = 'https://www3.yggtorrent.qa/engine/search?name='+name+\
+                                                        '&description='\
+                                                            '&file='\
+                                                                '&uploader'\
+                                                                    '&category=2145'\
+                                                                        '&sub_category='\
+                                                                            '&do=search'\
+                                                                                '&order=desc'\
+                                                                                    '&sort=seed'\
+                                                                                        '&page=0'
+    YggDict = {}
+    CleanDict = {}
+    YggResponse = requests.get(Url, RandomAgent())
+    
+    soup = fromstring(YggResponse.text)
+    
+    FetchUrl = soup.xpath('//*[@id="torrent_name"]')
+    i = 0
+    
+    for element in FetchUrl:
+        
+        FetchSeed = soup.xpath('//*[@id="#torrents"]/div/table/tbody/tr/td[8]')
+        FetchLeech = soup.xpath('//*[@id="#torrents"]/div/table/tbody/tr/td[9]')
+        FetchCategory = soup.xpath('//*[@id="#torrents"]/div/table/tbody/tr/td[1]/div')    
+        
+        if int(FetchSeed[i].text) > 0:
+            YggDict[element.text] = {'url':element.get('href'),'category': MappageCategories(str(FetchCategory[i].text)) ,'seed':FetchSeed[i].text,'leech':FetchLeech[i].text}
+            # YggDict[element.text] = {'url':element.get('href'),'category': MappageCategories(str(FetchCategory[i].text)) ,'seed':FetchSeed[i].text,'leech':FetchLeech[i].text, 'img':SrcImg}
+
+        i+=1
+
+    CleanDict = SuppressionCharVide(YggDict)
+    print(Url)
+    return CleanDict
+
+# Faire fonction pour recuperer la liste des fichiers dans un dossier -> Pour chaque fichier, récupérer pour chaque film, la liste des URL de ygg 
+# et les ajouter sous ce format là  
+                    # "YggUrl": [ 
+                    #     {
+                    #         "Nom": "bla1", (Nom du torrent)
+                    #         "URL1": "Url Bla1" (Url du torrent)
+                    #     },
+                    #     {
+                    #         "Nom": "bla2",
+                    #         "URL": "Url Bla2"
+                    #     }
+                    # ]
+# 
+

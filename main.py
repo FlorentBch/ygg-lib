@@ -3,6 +3,7 @@ from GetName.TorrentName import GetNames, FindImageGoogle
 from GetName.TraitementChaine import SuppressionCharVide
 from GetName.TorrentSeedLeech import GetSeedLeech
 from Web.FonctionHtml import GenerateurDivMain
+from GetName.TorrentName import AddUrlYggInDb_SC
 
 import json
 
@@ -12,13 +13,15 @@ if __name__ == '__main__':
     # YggUrl = GetUrl()
     # print(YggUrl)
     
-    TorrentName = input('Entrez votre torrent recherché : ')
-    TorrentCategory = input('Entrez votre categorie : ')
+    # TorrentName = input('Entrez votre torrent recherché : ')
+    # TorrentCategory = input('Entrez votre categorie : ')
     
-    DictNames = GetNames(name=TorrentName,description='',file='',uploader='',category=TorrentCategory,sub_category='',order='',sort='seed',page=0)
+    # DictNames = GetNames(name=TorrentName,description='',file='',uploader='',category=TorrentCategory,sub_category='',order='',sort='seed',page=0)
     
-    print(f"Vous avez trouvé '{len(DictNames)}' torrents ")
-    print(DictNames)
+    # print(f"Vous avez trouvé '{len(DictNames)}' torrents ")
+    # print(DictNames)
     
-    with open("./Data/Section.json", "w") as f:
-        json.dump(DictNames, f)
+    # with open("./Data/Section.json", "w") as f:
+    #     json.dump(DictNames, f)
+    
+    AddUrlYggInDb_SC('Shining 1980')
