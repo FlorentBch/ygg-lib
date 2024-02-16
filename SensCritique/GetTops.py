@@ -97,10 +97,10 @@ def FetchListTopsFilms():
         data = response.json()
         
         # Enregistrez les données dans un fichier JSON
-        with open('./Data/TopsFilms.json', 'w', encoding='utf-8') as json_file:
+        with open('./Data/SC_ListTopsFilms.json', 'w', encoding='utf-8') as json_file:
             json.dump(data, json_file, ensure_ascii=False, indent=4)
             
-        print("Les données ont été enregistrées avec succès dans 'TopsFilms.json'.")
+        print("Les données ont été enregistrées avec succès dans 'SC_ListTopsFilms.json'.")
     else:
         print("Erreur lors de la requête.")
 
@@ -148,10 +148,10 @@ def FetchListTopsGames():
         data = response.json()
         
         # Enregistrez les données dans un fichier JSON
-        with open('./Data/TopsJeuxVideo.json', 'w', encoding='utf-8') as json_file:
+        with open('./Data/SC_ListTopsJeuxVideo.json', 'w', encoding='utf-8') as json_file:
             json.dump(data, json_file, ensure_ascii=False, indent=4)
             
-        print("Les données ont été enregistrées avec succès dans 'TopsJeuxVideo.json'.")
+        print("Les données ont été enregistrées avec succès dans 'SC_ListTopsJeuxVideo.json'.")
     else:
         print("Erreur lors de la requête.")
 
@@ -190,10 +190,10 @@ def FetchListTopsSeries():
         data = response.json()
         
         # Enregistrez les données dans un fichier JSON
-        with open('./Data/TopsSeries.json', 'w', encoding='utf-8') as json_file:
+        with open('./Data/SC_TopsSeries.json', 'w', encoding='utf-8') as json_file:
             json.dump(data, json_file, ensure_ascii=False, indent=4)
             
-        print("Les données ont été enregistrées avec succès dans 'TopsSeries.json'.")
+        print("Les données ont été enregistrées avec succès dans 'SC_TopsSeries.json'.")
     else:
         print("Erreur lors de la requête.")
 
@@ -382,10 +382,10 @@ def FetchAllStreaming():
         data = response.json()
         
         # Enregistrez les données dans un fichier JSON
-        with open('./Data/StreamingExplorerSeries.json', 'w', encoding='utf-8') as json_file:
+        with open('./Data/SC_StreamingExplorerSeries.json', 'w', encoding='utf-8') as json_file:
             json.dump(data, json_file, ensure_ascii=False, indent=4)
             
-        print("Les données ont été enregistrées avec succès dans 'StreamingExplorerSeries.json'.")
+        print("Les données ont été enregistrées avec succès dans 'SC_StreamingExplorerSeries.json'.")
     else:
         print("Erreur lors de la requête.")
 
@@ -592,10 +592,10 @@ def FetchWeeklyStreaming():
         data = response.json()
         
         # Enregistrez les données dans un fichier JSON
-        with open('./Data/WeeklyStreaming.json', 'w', encoding='utf-8') as json_file:
+        with open('./Data/SC_WeeklyStreaming.json', 'w', encoding='utf-8') as json_file:
             json.dump(data, json_file, ensure_ascii=False, indent=4)
             
-        print("Les données ont été enregistrées avec succès dans 'WeeklyStreaming.json'.")
+        print("Les données ont été enregistrées avec succès dans 'SC_WeeklyStreaming.json'.")
     else:
         print("Erreur lors de la requête.")
 
@@ -802,12 +802,17 @@ def FetchMonthlyStreaming():
         data = response.json()
         
         # Enregistrez les données dans un fichier JSON
-        with open('./Data/MonthlyStreaming.json', 'w', encoding='utf-8') as json_file:
+        with open('./Data/SC_MonthlyStreaming.json', 'w', encoding='utf-8') as json_file:
             json.dump(data, json_file, ensure_ascii=False, indent=4)
             
-        print("Les données ont été enregistrées avec succès dans 'MonthlyStreaming.json'.")
+        print("Les données ont été enregistrées avec succès dans 'SC_MonthlyStreaming.json'.")
     else:
         print("Erreur lors de la requête.")
 
-# Exemple d'utilisation
-FetchMonthlyStreaming()
+def ScrapIntegralite():
+    FetchListTopsFilms()
+    FetchAllStreaming()
+    FetchListTopsGames()
+    FetchMonthlyStreaming()
+    FetchWeeklyStreaming()
+
