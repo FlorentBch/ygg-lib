@@ -69,7 +69,7 @@ def FetchListTopsFilms():
     payload = {
         "operationName": "Polls",
         "variables": {
-            "limit": 1000,
+            "limit": 10000,
             "offset": 0,
             "sortBy": "ALL",
             "universe": "movie"
@@ -816,3 +816,203 @@ def ScrapIntegralite():
     FetchMonthlyStreaming()
     FetchWeeklyStreaming()
 
+def FetchPoll(id):
+    url = "https://apollo.senscritique.com/"
+    
+    headers = {
+        "accept": "*/*",
+        "accept-language": "fr-FR,fr;q=0.8",
+        "authorization": "null",
+        "content-type": "application/json",
+        "sec-ch-ua": "\"Not A(Brand\";v=\"99\", \"Brave\";v=\"121\", \"Chromium\";v=\"121\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "sec-fetch-dest": "empty",
+        "sec-fetch-mode": "cors",
+        "sec-fetch-site": "same-site",
+        "sec-gpc": "1"
+    }
+    
+    payload = {
+        "operationName": "Poll",
+        "variables": {
+            "id": id,
+            "limit": 10000,
+            "offset": 0
+        },
+        "query": """
+            query Poll($id: Int!, $limit: Int, $offset: Int) {
+                poll(id: $id) {
+                    alternativeTitle
+                    cover
+                    description
+                    id
+                    label
+                    participationCount
+                    participationScoutsCount
+                    universe
+                    url
+                    minimalProducts {
+                        id
+                        title
+                        url
+                    }
+                    products(limit: $limit, offset: $offset) {
+                        ...ProductList
+                        albums(limit: 1) {
+                            ...ProductNano
+                        }
+                        currentUserInfos {
+                            ...ProductUserInfos
+                        }
+                        polls(currentPollId: $id, limit: 11) {
+                            poll {
+                                id
+                                label
+                                url
+                            }
+                        }
+                        scoutsAverage {
+                            average
+                            count
+                        }
+                    }
+                    userAnswer {
+                        id
+                        url
+                        productCount
+                    }
+                    completionPercentage
+                    badge {
+                        id
+                        label
+                        image
+                    }
+                }
+            }
+
+            fragment ProductList on Product {
+                category
+                channel
+                dateRelease
+                displayedYear
+                duration
+                episodeNumber
+                seasonNumber
+                frenchReleaseDate
+                id
+                numberOfSeasons
+                rating
+                slug
+                subtitle
+                title
+                universe
+                url
+                yearOfProduction
+                tvChannel {
+                    name
+                    url
+                }
+                countries {
+                    id
+                    name
+                }
+                medias {
+                    picture
+                }
+                genresInfos {
+                    label
+                }
+                directors {
+                    name
+                    person_id
+                    url
+                }
+                stats {
+                    ratingCount
+                }
+            }
+
+            fragment ProductNano on Product {
+                id
+                rating
+                slug
+                title
+                universe
+                url
+                yearOfProduction
+                medias(backdropSize: "1200") {
+                    backdrop
+                    picture
+                }
+            }
+
+            fragment ProductUserInfos on ProductUserInfos {
+                dateDone
+                hasStartedReview
+                isCurrent
+                id
+                isDone
+                isListed
+                isRecommended
+                isReviewed
+                isWished
+                productId
+                rating
+                userId
+                numberEpisodeDone
+                lastEpisodeDone {
+                    episodeNumber
+                    id
+                    season {
+                        seasonNumber
+                        id
+                        episodes {
+                            title
+                            id
+                            episodeNumber
+                        }
+                    }
+                }
+                review {
+                    author {
+                        id
+                        name
+                    }
+                    url
+                }
+            }
+        """
+    }
+
+    response = requests.post(url, json=payload, headers=headers)
+
+    if response.status_code == 200:
+        data = response.json()
+
+        # Enregistrez les données dans un fichier JSON
+        with open('./Data/Top Films SC/SC_'+data['data']['poll']['label']+'.json', 'w', encoding='utf-8') as json_file:
+            json.dump(data, json_file, ensure_ascii=False, indent=4)
+            
+        print("Les données ont été enregistrées avec succès dans 'SC_"+data['data']['poll']['label']+".json'.")
+    else:
+        print("Erreur lors de la requête.")
+
+def testAllPoll():
+    with open("C:/Users/FlorentBUCHET/Documents/ygg-lib/Data/SC_ListTopsFilms.json", encoding='utf-8') as f:
+        data = json.load(f)
+    totalItems = data['data']['polls']['total']
+    for i in range(totalItems):
+        ListData = data['data']['polls']['items'][i]['id']
+        FetchPoll(ListData)
+
+FetchListTopsFilms()
+testAllPoll()
+
+                # {
+                #     "cover": "https://media.senscritique.com/media/media/000018636959/480x0/cover.jpg",
+                #     "id": 2457925,
+                #     "label": "Les films avec la meilleure ambiance/atmosphère",
+                #     "url": "/top/resultats/les_films_avec_la_meilleure_ambiance_atmosphere/2457925"
+                # },
+                # Gerer le cas du slash (/) dans le nom du label
