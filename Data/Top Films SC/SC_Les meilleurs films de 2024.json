@@ -1,0 +1,3367 @@
+{
+    "data": {
+        "poll": {
+            "alternativeTitle": "Top des meilleurs films de 2024",
+            "cover": "https://media.senscritique.com/media/media/000021831854/480x0/cover.jpg",
+            "description": "Quels sont les meilleurs films de 2024 ?",
+            "id": 3711061,
+            "label": "Les meilleurs films de 2024",
+            "participationCount": 1387,
+            "participationScoutsCount": null,
+            "universe": 1,
+            "url": "/top/resultats/les_meilleurs_films_de_2024/3711061",
+            "minimalProducts": [
+                {
+                    "id": 43827331,
+                    "title": "Pauvres Créatures",
+                    "url": "/film/pauvres_creatures/43827331"
+                },
+                {
+                    "id": 45420773,
+                    "title": "La Zone d’intérêt",
+                    "url": "/film/la_zone_dinteret/45420773"
+                },
+                {
+                    "id": 48869419,
+                    "title": "Le Cercle des neiges",
+                    "url": "/film/le_cercle_des_neiges/48869419"
+                },
+                {
+                    "id": 45414767,
+                    "title": "May December",
+                    "url": "/film/may_december/45414767"
+                },
+                {
+                    "id": 48033428,
+                    "title": "Iron Claw",
+                    "url": "/film/iron_claw/48033428"
+                },
+                {
+                    "id": 52665255,
+                    "title": "Daaaaaalí !",
+                    "url": "/film/daaaaaali/52665255"
+                },
+                {
+                    "id": 52439584,
+                    "title": "Priscilla",
+                    "url": "/film/priscilla/52439584"
+                },
+                {
+                    "id": 56260206,
+                    "title": "Les Chambres rouges",
+                    "url": "/film/les_chambres_rouges/56260206"
+                },
+                {
+                    "id": 54417183,
+                    "title": "Moi capitaine",
+                    "url": "/film/moi_capitaine/54417183"
+                },
+                {
+                    "id": 45055468,
+                    "title": "Argylle",
+                    "url": "/film/argylle/45055468"
+                },
+                {
+                    "id": 46450183,
+                    "title": "Making of",
+                    "url": "/film/making_of/46450183"
+                },
+                {
+                    "id": 43814980,
+                    "title": "La Bête",
+                    "url": "/film/la_bete/43814980"
+                },
+                {
+                    "id": 55674669,
+                    "title": "Jeunesse (Le Printemps)",
+                    "url": "/film/jeunesse_le_printemps/55674669"
+                },
+                {
+                    "id": 13664964,
+                    "title": "Ferrari",
+                    "url": "/film/ferrari/13664964"
+                },
+                {
+                    "id": 48401886,
+                    "title": "Sans jamais nous connaître",
+                    "url": "/film/sans_jamais_nous_connaitre/48401886"
+                },
+                {
+                    "id": 54739114,
+                    "title": "Un silence",
+                    "url": "/film/un_silence/54739114"
+                },
+                {
+                    "id": 55732414,
+                    "title": "Sleep",
+                    "url": "/film/sleep/55732414"
+                },
+                {
+                    "id": 55235939,
+                    "title": "Vampire humaniste cherche suicidaire consentant",
+                    "url": "/film/vampire_humaniste_cherche_suicidaire_consentant/55235939"
+                },
+                {
+                    "id": 56279035,
+                    "title": "La Nuit d'Orion",
+                    "url": "/film/la_nuit_d_orion/56279035"
+                },
+                {
+                    "id": 51491395,
+                    "title": "A Man",
+                    "url": "/film/a_man/51491395"
+                },
+                {
+                    "id": 52259481,
+                    "title": "The Beekeeper",
+                    "url": "/film/the_beekeeper/52259481"
+                },
+                {
+                    "id": 51204670,
+                    "title": "Iris et les hommes",
+                    "url": "/film/iris_et_les_hommes/51204670"
+                },
+                {
+                    "id": 46460428,
+                    "title": "La Couleur pourpre",
+                    "url": "/film/la_couleur_pourpre/46460428"
+                },
+                {
+                    "id": 55674622,
+                    "title": "Si seulement je pouvais hiberner",
+                    "url": "/film/si_seulement_je_pouvais_hiberner/55674622"
+                },
+                {
+                    "id": 53553154,
+                    "title": "La Vie rêvée de Miss Fran",
+                    "url": "/film/la_vie_revee_de_miss_fran/53553154"
+                },
+                {
+                    "id": 53553179,
+                    "title": "Scrapper",
+                    "url": "/film/scrapper/53553179"
+                },
+                {
+                    "id": 59818324,
+                    "title": "When Evil Lurks",
+                    "url": "/film/when_evil_lurks/59818324"
+                },
+                {
+                    "id": 57308007,
+                    "title": "Green Border",
+                    "url": "/film/green_border/57308007"
+                },
+                {
+                    "id": 53642483,
+                    "title": "Mean Girls - Lolita malgré moi",
+                    "url": "/film/mean_girls_lolita_malgre_moi/53642483"
+                },
+                {
+                    "id": 55172077,
+                    "title": "They Shot the Piano Player",
+                    "url": "/film/they_shot_the_piano_player/55172077"
+                },
+                {
+                    "id": 55038779,
+                    "title": "Night Swim",
+                    "url": "/film/night_swim/55038779"
+                },
+                {
+                    "id": 55846623,
+                    "title": "Tout sauf toi",
+                    "url": "/film/tout_sauf_toi/55846623"
+                },
+                {
+                    "id": 50735432,
+                    "title": "L'Affaire de la mutinerie Caine",
+                    "url": "/film/l_affaire_de_la_mutinerie_caine/50735432"
+                },
+                {
+                    "id": 57919000,
+                    "title": "Creation of the Gods I: Kingdom of Storms",
+                    "url": "/film/creation_of_the_gods_i_kingdom_of_storms/57919000"
+                },
+                {
+                    "id": 55674698,
+                    "title": "Man in Black",
+                    "url": "/film/man_in_black/55674698"
+                },
+                {
+                    "id": 61775744,
+                    "title": "L'Homme d'argile",
+                    "url": "/film/l_homme_d_argile/61775744"
+                },
+                {
+                    "id": 57386402,
+                    "title": "Le Dernier des Juifs",
+                    "url": "/film/le_dernier_des_juifs/57386402"
+                },
+                {
+                    "id": 55732391,
+                    "title": "The Sweet East",
+                    "url": "/film/the_sweet_east/55732391"
+                },
+                {
+                    "id": 55731569,
+                    "title": "La Grâce",
+                    "url": "/film/la_grace/55731569"
+                },
+                {
+                    "id": 61777129,
+                    "title": "Amelia's Children",
+                    "url": "/film/amelia_s_children/61777129"
+                },
+                {
+                    "id": 47185924,
+                    "title": "En plein vol",
+                    "url": "/film/en_plein_vol/47185924"
+                },
+                {
+                    "id": 45424060,
+                    "title": "Dune - Deuxième partie",
+                    "url": "/film/dune_deuxieme_partie/45424060"
+                },
+                {
+                    "id": 61619157,
+                    "title": "La Ferme des Bertrand",
+                    "url": "/film/la_ferme_des_bertrand/61619157"
+                },
+                {
+                    "id": 44886976,
+                    "title": "Foe",
+                    "url": "/film/foe/44886976"
+                },
+                {
+                    "id": 55163890,
+                    "title": "La Salle des profs",
+                    "url": "/film/la_salle_des_profs/55163890"
+                },
+                {
+                    "id": 54348929,
+                    "title": "Le Royaume des abysses",
+                    "url": "/film/le_royaume_des_abysses/54348929"
+                },
+                {
+                    "id": 53767739,
+                    "title": "City Hunter: Angel Dust",
+                    "url": "/film/city_hunter_angel_dust/53767739"
+                },
+                {
+                    "id": 55674662,
+                    "title": "Bonnard, Pierre et Marthe",
+                    "url": "/film/bonnard_pierre_et_marthe/55674662"
+                },
+                {
+                    "id": 68032073,
+                    "title": "Race for Glory - Audi vs Lancia",
+                    "url": "/film/race_for_glory_audi_vs_lancia/68032073"
+                },
+                {
+                    "id": 58870517,
+                    "title": "Un coup de dés",
+                    "url": "/film/un_coup_de_des/58870517"
+                }
+            ],
+            "products": [
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2024-01-12",
+                    "displayedYear": 2023,
+                    "duration": 8460,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-01-17",
+                    "id": 43827331,
+                    "numberOfSeasons": 0,
+                    "rating": 7.4,
+                    "slug": "pauvres_creatures",
+                    "subtitle": null,
+                    "title": "Pauvres Créatures",
+                    "universe": 1,
+                    "url": "/film/pauvres_creatures/43827331",
+                    "yearOfProduction": 2024,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 107,
+                            "name": "Irlande"
+                        },
+                        {
+                            "id": 235,
+                            "name": "Royaume-Uni"
+                        },
+                        {
+                            "id": 236,
+                            "name": "États-Unis"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021743398/300/pauvres_creatures.png"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Comédie"
+                        },
+                        {
+                            "label": "Drame"
+                        },
+                        {
+                            "label": "Fantastique"
+                        },
+                        {
+                            "label": "Érotique"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Yórgos Lánthimos",
+                            "person_id": 494237,
+                            "url": "/contact/Yorgos_Lanthimos/494237"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 11080
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": [
+                        {
+                            "poll": {
+                                "id": 3637547,
+                                "label": "Les films les plus attendus de 2024",
+                                "url": "/top/resultats/les_films_les_plus_attendus_de_2024/3637547"
+                            }
+                        },
+                        {
+                            "poll": {
+                                "id": 842194,
+                                "label": "Les meilleurs films avec Emma Stone",
+                                "url": "/top/resultats/les_meilleurs_films_avec_emma_stone/842194"
+                            }
+                        },
+                        {
+                            "poll": {
+                                "id": 3319985,
+                                "label": "Les films les plus attendus de 2023",
+                                "url": "/top/resultats/les_films_les_plus_attendus_de_2023/3319985"
+                            }
+                        }
+                    ],
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2024-02-02",
+                    "displayedYear": 2023,
+                    "duration": 6300,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-01-31",
+                    "id": 45420773,
+                    "numberOfSeasons": 0,
+                    "rating": 7.3,
+                    "slug": "la_zone_dinteret",
+                    "subtitle": null,
+                    "title": "La Zone d’intérêt",
+                    "universe": 1,
+                    "url": "/film/la_zone_dinteret/45420773",
+                    "yearOfProduction": 2024,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 235,
+                            "name": "Royaume-Uni"
+                        },
+                        {
+                            "id": 177,
+                            "name": "Pologne"
+                        },
+                        {
+                            "id": 236,
+                            "name": "États-Unis"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021835879/300/la_zone_dinteret.png"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Drame"
+                        },
+                        {
+                            "label": "Historique"
+                        },
+                        {
+                            "label": "Guerre"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Jonathan Glazer",
+                            "person_id": 55084,
+                            "url": "/contact/Jonathan_Glazer/55084"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 7145
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": [
+                        {
+                            "poll": {
+                                "id": 3637547,
+                                "label": "Les films les plus attendus de 2024",
+                                "url": "/top/resultats/les_films_les_plus_attendus_de_2024/3637547"
+                            }
+                        },
+                        {
+                            "poll": {
+                                "id": 3458555,
+                                "label": "Festival de Cannes 2023",
+                                "url": "/top/resultats/cannes_2023/3458555"
+                            }
+                        },
+                        {
+                            "poll": {
+                                "id": 2477925,
+                                "label": "Les meilleurs films A24",
+                                "url": "/top/resultats/les_meilleurs_films_a24/2477925"
+                            }
+                        }
+                    ],
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2023-12-15",
+                    "displayedYear": 2023,
+                    "duration": 8580,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-01-04",
+                    "id": 48869419,
+                    "numberOfSeasons": 0,
+                    "rating": 7.3,
+                    "slug": "le_cercle_des_neiges",
+                    "subtitle": null,
+                    "title": "Le Cercle des neiges",
+                    "universe": 1,
+                    "url": "/film/le_cercle_des_neiges/48869419",
+                    "yearOfProduction": 2023,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 209,
+                            "name": "Espagne"
+                        },
+                        {
+                            "id": 238,
+                            "name": "Uruguay"
+                        },
+                        {
+                            "id": 45,
+                            "name": "Chili"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021762682/300/le_cercle_des_neiges.png"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Drame"
+                        },
+                        {
+                            "label": "Historique"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "J. A. Bayona",
+                            "person_id": 120808,
+                            "url": "/contact/J_A_Bayona/120808"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 6610
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": [
+                        {
+                            "poll": {
+                                "id": 3715615,
+                                "label": "Les meilleurs films streaming de 2024",
+                                "url": "/top/resultats/les_meilleurs_films_streaming_de_2024/3715615"
+                            }
+                        },
+                        {
+                            "poll": {
+                                "id": 3637547,
+                                "label": "Les films les plus attendus de 2024",
+                                "url": "/top/resultats/les_films_les_plus_attendus_de_2024/3637547"
+                            }
+                        },
+                        {
+                            "poll": {
+                                "id": 866278,
+                                "label": "Les meilleurs films de catastrophes aériennes",
+                                "url": "/top/resultats/les_meilleurs_films_de_catastrophes_aeriennes/866278"
+                            }
+                        },
+                        {
+                            "poll": {
+                                "id": 1685144,
+                                "label": "Les meilleurs films originaux Netflix",
+                                "url": "/top/resultats/les_meilleurs_films_originaux_netflix/1685144"
+                            }
+                        }
+                    ],
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2023-11-17",
+                    "displayedYear": 2023,
+                    "duration": 7020,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-01-24",
+                    "id": 45414767,
+                    "numberOfSeasons": 0,
+                    "rating": 6.5,
+                    "slug": "may_december",
+                    "subtitle": null,
+                    "title": "May December",
+                    "universe": 1,
+                    "url": "/film/may_december/45414767",
+                    "yearOfProduction": 2023,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 236,
+                            "name": "États-Unis"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021859593/300/may_december.png"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Comédie dramatique"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Todd Haynes",
+                            "person_id": 24008,
+                            "url": "/contact/Todd_Haynes/24008"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 3695
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": [
+                        {
+                            "poll": {
+                                "id": 3748698,
+                                "label": "Les meilleurs films de Todd Haynes",
+                                "url": "/top/resultats/les_meilleurs_films_de_todd_haynes/3748698"
+                            }
+                        },
+                        {
+                            "poll": {
+                                "id": 3637547,
+                                "label": "Les films les plus attendus de 2024",
+                                "url": "/top/resultats/les_films_les_plus_attendus_de_2024/3637547"
+                            }
+                        }
+                    ],
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2023-12-22",
+                    "displayedYear": 2023,
+                    "duration": 7980,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-01-24",
+                    "id": 48033428,
+                    "numberOfSeasons": 0,
+                    "rating": 7.3,
+                    "slug": "iron_claw",
+                    "subtitle": null,
+                    "title": "Iron Claw",
+                    "universe": 1,
+                    "url": "/film/iron_claw/48033428",
+                    "yearOfProduction": 2023,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 236,
+                            "name": "États-Unis"
+                        },
+                        {
+                            "id": 235,
+                            "name": "Royaume-Uni"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021819103/300/iron_claw.png"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Biopic"
+                        },
+                        {
+                            "label": "Drame"
+                        },
+                        {
+                            "label": "Sport"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Sean Durkin",
+                            "person_id": 130842,
+                            "url": "/contact/Sean_Durkin/130842"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 2496
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": [
+                        {
+                            "poll": {
+                                "id": 3637547,
+                                "label": "Les films les plus attendus de 2024",
+                                "url": "/top/resultats/les_films_les_plus_attendus_de_2024/3637547"
+                            }
+                        }
+                    ],
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2024-02-07",
+                    "displayedYear": 2023,
+                    "duration": 4680,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-02-07",
+                    "id": 52665255,
+                    "numberOfSeasons": 0,
+                    "rating": 6.5,
+                    "slug": "daaaaaali",
+                    "subtitle": null,
+                    "title": "Daaaaaalí !",
+                    "universe": 1,
+                    "url": "/film/daaaaaali/52665255",
+                    "yearOfProduction": 2024,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 76,
+                            "name": "France"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021838904/300/daaaaaali.png"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Comédie"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Quentin Dupieux (Mr. Oizo)",
+                            "person_id": 104475,
+                            "url": "/contact/Quentin_Dupieux_Mr_Oizo/104475"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 3646
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": [
+                        {
+                            "poll": {
+                                "id": 3713268,
+                                "label": "Les meilleurs films français de 2024",
+                                "url": "/top/resultats/les_meilleurs_films_francais_de_2024/3713268"
+                            }
+                        },
+                        {
+                            "poll": {
+                                "id": 3637547,
+                                "label": "Les films les plus attendus de 2024",
+                                "url": "/top/resultats/les_films_les_plus_attendus_de_2024/3637547"
+                            }
+                        }
+                    ],
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2023-08-11",
+                    "displayedYear": 2023,
+                    "duration": 7080,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-01-17",
+                    "id": 56260206,
+                    "numberOfSeasons": 0,
+                    "rating": 7.4,
+                    "slug": "les_chambres_rouges",
+                    "subtitle": null,
+                    "title": "Les Chambres rouges",
+                    "universe": 1,
+                    "url": "/film/les_chambres_rouges/56260206",
+                    "yearOfProduction": 2023,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 40,
+                            "name": "Canada"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021782835/300/les_chambres_rouges.png"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Thriller"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Pascal Plante",
+                            "person_id": 1528230,
+                            "url": "/contact/Pascal_Plante/1528230"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 1636
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": [
+                        {
+                            "poll": {
+                                "id": 3637547,
+                                "label": "Les films les plus attendus de 2024",
+                                "url": "/top/resultats/les_films_les_plus_attendus_de_2024/3637547"
+                            }
+                        }
+                    ],
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2023-11-03",
+                    "displayedYear": null,
+                    "duration": 6780,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-01-03",
+                    "id": 52439584,
+                    "numberOfSeasons": 0,
+                    "rating": 6.1,
+                    "slug": "priscilla",
+                    "subtitle": null,
+                    "title": "Priscilla",
+                    "universe": 1,
+                    "url": "/film/priscilla/52439584",
+                    "yearOfProduction": 2023,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 236,
+                            "name": "États-Unis"
+                        },
+                        {
+                            "id": 110,
+                            "name": "Italie"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021798655/300/priscilla.png"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Biopic"
+                        },
+                        {
+                            "label": "Drame"
+                        },
+                        {
+                            "label": "Romance"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Sofia Coppola",
+                            "person_id": 1397,
+                            "url": "/contact/Sofia_Coppola/1397"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 4244
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": [
+                        {
+                            "poll": {
+                                "id": 3734076,
+                                "label": "Les meilleurs films de Sofia Coppola",
+                                "url": "/top/resultats/les_meilleurs_films_de_sofia_coppola/3734076"
+                            }
+                        },
+                        {
+                            "poll": {
+                                "id": 3637547,
+                                "label": "Les films les plus attendus de 2024",
+                                "url": "/top/resultats/les_films_les_plus_attendus_de_2024/3637547"
+                            }
+                        }
+                    ],
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2024-03-08",
+                    "displayedYear": 2023,
+                    "duration": 7320,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-01-03",
+                    "id": 54417183,
+                    "numberOfSeasons": 0,
+                    "rating": 7.1,
+                    "slug": "moi_capitaine",
+                    "subtitle": null,
+                    "title": "Moi capitaine",
+                    "universe": 1,
+                    "url": "/film/moi_capitaine/54417183",
+                    "yearOfProduction": 2023,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 110,
+                            "name": "Italie"
+                        },
+                        {
+                            "id": 22,
+                            "name": "Belgique"
+                        },
+                        {
+                            "id": 76,
+                            "name": "France"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021640897/300/moi_capitaine.jpg"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Drame"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Matteo Garrone",
+                            "person_id": 44770,
+                            "url": "/contact/Matteo_Garrone/44770"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 1460
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": null,
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2024-02-02",
+                    "displayedYear": null,
+                    "duration": 8340,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-01-31",
+                    "id": 45055468,
+                    "numberOfSeasons": 0,
+                    "rating": 5.2,
+                    "slug": "argylle",
+                    "subtitle": null,
+                    "title": "Argylle",
+                    "universe": 1,
+                    "url": "/film/argylle/45055468",
+                    "yearOfProduction": 2024,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 235,
+                            "name": "Royaume-Uni"
+                        },
+                        {
+                            "id": 236,
+                            "name": "États-Unis"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021894462/300/argylle.png"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Action"
+                        },
+                        {
+                            "label": "Aventure"
+                        },
+                        {
+                            "label": "Comédie"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Matthew Vaughn",
+                            "person_id": 44650,
+                            "url": "/contact/Matthew_Vaughn/44650"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 1526
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": [
+                        {
+                            "poll": {
+                                "id": 3637547,
+                                "label": "Les films les plus attendus de 2024",
+                                "url": "/top/resultats/les_films_les_plus_attendus_de_2024/3637547"
+                            }
+                        }
+                    ],
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2024-01-10",
+                    "displayedYear": 2022,
+                    "duration": 6840,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-01-10",
+                    "id": 46450183,
+                    "numberOfSeasons": 0,
+                    "rating": 6.1,
+                    "slug": "making_of",
+                    "subtitle": null,
+                    "title": "Making of",
+                    "universe": 1,
+                    "url": "/film/making_of/46450183",
+                    "yearOfProduction": 2024,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 76,
+                            "name": "France"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021826389/300/making_of.png"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Comédie"
+                        },
+                        {
+                            "label": "Drame"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Cédric Kahn",
+                            "person_id": 10267,
+                            "url": "/contact/Cedric_Kahn/10267"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 1564
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": [
+                        {
+                            "poll": {
+                                "id": 3713268,
+                                "label": "Les meilleurs films français de 2024",
+                                "url": "/top/resultats/les_meilleurs_films_francais_de_2024/3713268"
+                            }
+                        }
+                    ],
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2024-02-07",
+                    "displayedYear": 2023,
+                    "duration": 8760,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-02-07",
+                    "id": 43814980,
+                    "numberOfSeasons": 0,
+                    "rating": 6.4,
+                    "slug": "la_bete",
+                    "subtitle": null,
+                    "title": "La Bête",
+                    "universe": 1,
+                    "url": "/film/la_bete/43814980",
+                    "yearOfProduction": 2024,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 76,
+                            "name": "France"
+                        },
+                        {
+                            "id": 40,
+                            "name": "Canada"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021545408/300/la_bete.png"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Drame"
+                        },
+                        {
+                            "label": "Romance"
+                        },
+                        {
+                            "label": "Science-fiction"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Bertrand Bonello",
+                            "person_id": 44706,
+                            "url": "/contact/Bertrand_Bonello/44706"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 868
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": [
+                        {
+                            "poll": {
+                                "id": 3713268,
+                                "label": "Les meilleurs films français de 2024",
+                                "url": "/top/resultats/les_meilleurs_films_francais_de_2024/3713268"
+                            }
+                        },
+                        {
+                            "poll": {
+                                "id": 3637547,
+                                "label": "Les films les plus attendus de 2024",
+                                "url": "/top/resultats/les_films_les_plus_attendus_de_2024/3637547"
+                            }
+                        }
+                    ],
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Documentaire",
+                    "channel": null,
+                    "dateRelease": "2024-01-03",
+                    "displayedYear": 2023,
+                    "duration": 12900,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-01-03",
+                    "id": 55674669,
+                    "numberOfSeasons": 0,
+                    "rating": 7.5,
+                    "slug": "jeunesse_le_printemps",
+                    "subtitle": null,
+                    "title": "Jeunesse (Le Printemps)",
+                    "universe": 1,
+                    "url": "/film/jeunesse_le_printemps/55674669",
+                    "yearOfProduction": 2024,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 76,
+                            "name": "France"
+                        },
+                        {
+                            "id": 130,
+                            "name": "Luxembourg"
+                        },
+                        {
+                            "id": 157,
+                            "name": "Pays-Bas"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021829667/300/jeunesse_le_printemps.jpg"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Société"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Wáng Bīng",
+                            "person_id": 85619,
+                            "url": "/contact/Wang_Bing/85619"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 425
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": null,
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2023-12-22",
+                    "displayedYear": 2023,
+                    "duration": 6300,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-02-14",
+                    "id": 48401886,
+                    "numberOfSeasons": 0,
+                    "rating": 7.2,
+                    "slug": "sans_jamais_nous_connaitre",
+                    "subtitle": null,
+                    "title": "Sans jamais nous connaître",
+                    "universe": 1,
+                    "url": "/film/sans_jamais_nous_connaitre/48401886",
+                    "yearOfProduction": 2023,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 235,
+                            "name": "Royaume-Uni"
+                        },
+                        {
+                            "id": 236,
+                            "name": "États-Unis"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021877012/300/sans_jamais_nous_connaitre.png"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Drame"
+                        },
+                        {
+                            "label": "Romance"
+                        },
+                        {
+                            "label": "Fantastique"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Andrew Haigh",
+                            "person_id": 547183,
+                            "url": "/contact/Andrew_Haigh/547183"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 765
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": [
+                        {
+                            "poll": {
+                                "id": 3637547,
+                                "label": "Les films les plus attendus de 2024",
+                                "url": "/top/resultats/les_films_les_plus_attendus_de_2024/3637547"
+                            }
+                        }
+                    ],
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2023-12-25",
+                    "displayedYear": null,
+                    "duration": 7800,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-03-08",
+                    "id": 13664964,
+                    "numberOfSeasons": 0,
+                    "rating": 6.1,
+                    "slug": "ferrari",
+                    "subtitle": null,
+                    "title": "Ferrari",
+                    "universe": 1,
+                    "url": "/film/ferrari/13664964",
+                    "yearOfProduction": 2023,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 236,
+                            "name": "États-Unis"
+                        },
+                        {
+                            "id": 235,
+                            "name": "Royaume-Uni"
+                        },
+                        {
+                            "id": 110,
+                            "name": "Italie"
+                        },
+                        {
+                            "id": 46,
+                            "name": "Chine"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021880835/300/ferrari.png"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Biopic"
+                        },
+                        {
+                            "label": "Drame"
+                        },
+                        {
+                            "label": "Historique"
+                        },
+                        {
+                            "label": "Sport"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Michael Mann",
+                            "person_id": 12822,
+                            "url": "/contact/Michael_Mann/12822"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 680
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": [
+                        {
+                            "poll": {
+                                "id": 3715615,
+                                "label": "Les meilleurs films streaming de 2024",
+                                "url": "/top/resultats/les_meilleurs_films_streaming_de_2024/3715615"
+                            }
+                        },
+                        {
+                            "poll": {
+                                "id": 3319985,
+                                "label": "Les films les plus attendus de 2023",
+                                "url": "/top/resultats/les_films_les_plus_attendus_de_2023/3319985"
+                            }
+                        },
+                        {
+                            "poll": {
+                                "id": 1393063,
+                                "label": "Les meilleurs films sur le monde de l'automobile",
+                                "url": "/top/resultats/les_meilleurs_films_sur_le_monde_de_l_automobile/1393063"
+                            }
+                        },
+                        {
+                            "poll": {
+                                "id": 3637547,
+                                "label": "Les films les plus attendus de 2024",
+                                "url": "/top/resultats/les_films_les_plus_attendus_de_2024/3637547"
+                            }
+                        }
+                    ],
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2024-01-10",
+                    "displayedYear": 2023,
+                    "duration": 6060,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-01-10",
+                    "id": 54739114,
+                    "numberOfSeasons": 0,
+                    "rating": 5.8,
+                    "slug": "un_silence",
+                    "subtitle": null,
+                    "title": "Un silence",
+                    "universe": 1,
+                    "url": "/film/un_silence/54739114",
+                    "yearOfProduction": 2024,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 22,
+                            "name": "Belgique"
+                        },
+                        {
+                            "id": 130,
+                            "name": "Luxembourg"
+                        },
+                        {
+                            "id": 76,
+                            "name": "France"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021852823/300/un_silence.jpg"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Drame"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Joachim Lafosse",
+                            "person_id": 88242,
+                            "url": "/contact/Joachim_Lafosse/88242"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 878
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": [
+                        {
+                            "poll": {
+                                "id": 3713268,
+                                "label": "Les meilleurs films français de 2024",
+                                "url": "/top/resultats/les_meilleurs_films_francais_de_2024/3713268"
+                            }
+                        }
+                    ],
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2023-10-13",
+                    "displayedYear": 2023,
+                    "duration": 5460,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-03-20",
+                    "id": 55235939,
+                    "numberOfSeasons": 0,
+                    "rating": 7.3,
+                    "slug": "vampire_humaniste_cherche_suicidaire_consentant",
+                    "subtitle": null,
+                    "title": "Vampire humaniste cherche suicidaire consentant",
+                    "universe": 1,
+                    "url": "/film/vampire_humaniste_cherche_suicidaire_consentant/55235939",
+                    "yearOfProduction": 2023,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 40,
+                            "name": "Canada"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021783041/300/vampire_humaniste_cherche_suicidaire_consentant.jpg"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Comédie"
+                        },
+                        {
+                            "label": "Épouvante-Horreur"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Ariane Louis-Seize",
+                            "person_id": 4067676,
+                            "url": "/contact/Ariane_LouisSeize/4067676"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 439
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": null,
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2023-09-06",
+                    "displayedYear": null,
+                    "duration": 5640,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-02-21",
+                    "id": 55732414,
+                    "numberOfSeasons": 0,
+                    "rating": 6.8,
+                    "slug": "sleep",
+                    "subtitle": null,
+                    "title": "Sleep",
+                    "universe": 1,
+                    "url": "/film/sleep/55732414",
+                    "yearOfProduction": 2023,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 119,
+                            "name": "Corée du Sud"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021910372/300/sleep.png"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Thriller"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Jason Yu",
+                            "person_id": 6717969,
+                            "url": "/contact/Jason_Yu/6717969"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 378
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": [
+                        {
+                            "poll": {
+                                "id": 3713268,
+                                "label": "Les meilleurs films français de 2024",
+                                "url": "/top/resultats/les_meilleurs_films_francais_de_2024/3713268"
+                            }
+                        }
+                    ],
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Long-métrage d'animation",
+                    "channel": null,
+                    "dateRelease": "2024-02-02",
+                    "displayedYear": 2024,
+                    "duration": 5400,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-02-02",
+                    "id": 56279035,
+                    "numberOfSeasons": 0,
+                    "rating": 5.8,
+                    "slug": "la_nuit_d_orion",
+                    "subtitle": null,
+                    "title": "La Nuit d'Orion",
+                    "universe": 1,
+                    "url": "/film/la_nuit_d_orion/56279035",
+                    "yearOfProduction": 2024,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 76,
+                            "name": "France"
+                        },
+                        {
+                            "id": 236,
+                            "name": "États-Unis"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021897675/300/la_nuit_d_orion.png"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Animation"
+                        },
+                        {
+                            "label": "Aventure"
+                        },
+                        {
+                            "label": "Comédie"
+                        },
+                        {
+                            "label": "Fantastique"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Sean Charmatz",
+                            "person_id": 2183814,
+                            "url": "/contact/Sean_Charmatz/2183814"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 483
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": [
+                        {
+                            "poll": {
+                                "id": 3715615,
+                                "label": "Les meilleurs films streaming de 2024",
+                                "url": "/top/resultats/les_meilleurs_films_streaming_de_2024/3715615"
+                            }
+                        },
+                        {
+                            "poll": {
+                                "id": 511092,
+                                "label": "Les meilleurs films d'animation Dreamworks",
+                                "url": "/top/resultats/les_meilleurs_films_d_animation_dreamworks/511092"
+                            }
+                        }
+                    ],
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2022-11-18",
+                    "displayedYear": 2022,
+                    "duration": 7260,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-01-31",
+                    "id": 51491395,
+                    "numberOfSeasons": 0,
+                    "rating": 6.5,
+                    "slug": "a_man",
+                    "subtitle": null,
+                    "title": "A Man",
+                    "universe": 1,
+                    "url": "/film/a_man/51491395",
+                    "yearOfProduction": 2022,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 112,
+                            "name": "Japon"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021763597/300/a_man.png"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Drame"
+                        },
+                        {
+                            "label": "Thriller"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Kei Ishikawa",
+                            "person_id": 3231705,
+                            "url": "/contact/Kei_Ishikawa/3231705"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 633
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": null,
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2023-09-22",
+                    "displayedYear": null,
+                    "duration": 8820,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-02-07",
+                    "id": 57308007,
+                    "numberOfSeasons": 0,
+                    "rating": 7.1,
+                    "slug": "green_border",
+                    "subtitle": null,
+                    "title": "Green Border",
+                    "universe": 1,
+                    "url": "/film/green_border/57308007",
+                    "yearOfProduction": 2023,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 177,
+                            "name": "Pologne"
+                        },
+                        {
+                            "id": 76,
+                            "name": "France"
+                        },
+                        {
+                            "id": 60,
+                            "name": "Tchéquie"
+                        },
+                        {
+                            "id": 22,
+                            "name": "Belgique"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021832732/300/green_border.png"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Drame"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Agnieszka Holland",
+                            "person_id": 354,
+                            "url": "/contact/Agnieszka_Holland/354"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 196
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": null,
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2024-01-12",
+                    "displayedYear": 2023,
+                    "duration": 6300,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": null,
+                    "id": 52259481,
+                    "numberOfSeasons": 0,
+                    "rating": 5.3,
+                    "slug": "the_beekeeper",
+                    "subtitle": null,
+                    "title": "The Beekeeper",
+                    "universe": 1,
+                    "url": "/film/the_beekeeper/52259481",
+                    "yearOfProduction": 2024,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 236,
+                            "name": "États-Unis"
+                        },
+                        {
+                            "id": 235,
+                            "name": "Royaume-Uni"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021634328/300/the_beekeeper.jpg"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Action"
+                        },
+                        {
+                            "label": "Thriller"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "David Ayer",
+                            "person_id": 58611,
+                            "url": "/contact/David_Ayer/58611"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 489
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": null,
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2023-12-25",
+                    "displayedYear": null,
+                    "duration": 7860,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-01-24",
+                    "id": 46460428,
+                    "numberOfSeasons": 0,
+                    "rating": 6.1,
+                    "slug": "la_couleur_pourpre",
+                    "subtitle": null,
+                    "title": "La Couleur pourpre",
+                    "universe": 1,
+                    "url": "/film/la_couleur_pourpre/46460428",
+                    "yearOfProduction": 2023,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 236,
+                            "name": "États-Unis"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021856858/300/la_couleur_pourpre.jpg"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Drame"
+                        },
+                        {
+                            "label": "Comédie musicale"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Blitz Bazawule",
+                            "person_id": 5825868,
+                            "url": "/contact/Blitz_Bazawule/5825868"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 317
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": null,
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2024-01-10",
+                    "displayedYear": 2022,
+                    "duration": 5880,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-01-10",
+                    "id": 55674622,
+                    "numberOfSeasons": 0,
+                    "rating": 6.8,
+                    "slug": "si_seulement_je_pouvais_hiberner",
+                    "subtitle": null,
+                    "title": "Si seulement je pouvais hiberner",
+                    "universe": 1,
+                    "url": "/film/si_seulement_je_pouvais_hiberner/55674622",
+                    "yearOfProduction": 2024,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 148,
+                            "name": "Mongolie"
+                        },
+                        {
+                            "id": 76,
+                            "name": "France"
+                        },
+                        {
+                            "id": 216,
+                            "name": "Suisse"
+                        },
+                        {
+                            "id": 180,
+                            "name": "Qatar"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021852782/300/si_seulement_je_pouvais_hiberner.jpg"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Drame"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Zoljargal Purevdash",
+                            "person_id": 6713119,
+                            "url": "/contact/Zoljargal_Purevdash/6713119"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 441
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": null,
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2024-01-03",
+                    "displayedYear": 2023,
+                    "duration": 5880,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-01-03",
+                    "id": 51204670,
+                    "numberOfSeasons": 0,
+                    "rating": 5.3,
+                    "slug": "iris_et_les_hommes",
+                    "subtitle": null,
+                    "title": "Iris et les hommes",
+                    "universe": 1,
+                    "url": "/film/iris_et_les_hommes/51204670",
+                    "yearOfProduction": 2024,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 76,
+                            "name": "France"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021830405/300/iris_et_les_hommes.png"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Comédie"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Caroline Vignal",
+                            "person_id": 29854,
+                            "url": "/contact/Caroline_Vignal/29854"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 961
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": [
+                        {
+                            "poll": {
+                                "id": 3713268,
+                                "label": "Les meilleurs films français de 2024",
+                                "url": "/top/resultats/les_meilleurs_films_francais_de_2024/3713268"
+                            }
+                        }
+                    ],
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2024-01-10",
+                    "displayedYear": 2023,
+                    "duration": 5580,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-01-10",
+                    "id": 53553154,
+                    "numberOfSeasons": 0,
+                    "rating": 6.2,
+                    "slug": "la_vie_revee_de_miss_fran",
+                    "subtitle": null,
+                    "title": "La Vie rêvée de Miss Fran",
+                    "universe": 1,
+                    "url": "/film/la_vie_revee_de_miss_fran/53553154",
+                    "yearOfProduction": 2023,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 236,
+                            "name": "États-Unis"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021809244/300/la_vie_revee_de_miss_fran.png"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Comédie"
+                        },
+                        {
+                            "label": "Drame"
+                        },
+                        {
+                            "label": "Romance"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Rachel Lambert",
+                            "person_id": 1538491,
+                            "url": "/contact/Rachel_Lambert/1538491"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 436
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": null,
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2023-08-25",
+                    "displayedYear": 2022,
+                    "duration": 5040,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-01-10",
+                    "id": 53553179,
+                    "numberOfSeasons": 0,
+                    "rating": 6.6,
+                    "slug": "scrapper",
+                    "subtitle": null,
+                    "title": "Scrapper",
+                    "universe": 1,
+                    "url": "/film/scrapper/53553179",
+                    "yearOfProduction": 2023,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 235,
+                            "name": "Royaume-Uni"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021759559/300/scrapper.jpg"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Comédie"
+                        },
+                        {
+                            "label": "Drame"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Charlotte Regan",
+                            "person_id": 3633312,
+                            "url": "/contact/Charlotte_Regan/3633312"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 311
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": null,
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2024-01-10",
+                    "displayedYear": null,
+                    "duration": 6600,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-01-10",
+                    "id": 53642483,
+                    "numberOfSeasons": 0,
+                    "rating": 5.7,
+                    "slug": "mean_girls_lolita_malgre_moi",
+                    "subtitle": null,
+                    "title": "Mean Girls - Lolita malgré moi",
+                    "universe": 1,
+                    "url": "/film/mean_girls_lolita_malgre_moi/53642483",
+                    "yearOfProduction": 2024,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 236,
+                            "name": "États-Unis"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021794715/300/mean_girls_lolita_malgre_moi.png"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Comédie"
+                        },
+                        {
+                            "label": "Comédie musicale"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Samantha Jayne",
+                            "person_id": 6525717,
+                            "url": "/contact/Samantha_Jayne/6525717"
+                        },
+                        {
+                            "name": "Arturo Perez Jr.",
+                            "person_id": 5719771,
+                            "url": "/contact/Arturo_Perez_Jr/5719771"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 476
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": null,
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2023-10-06",
+                    "displayedYear": 2023,
+                    "duration": 5940,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-04-17",
+                    "id": 59818324,
+                    "numberOfSeasons": 0,
+                    "rating": 6.7,
+                    "slug": "when_evil_lurks",
+                    "subtitle": null,
+                    "title": "When Evil Lurks",
+                    "universe": 1,
+                    "url": "/film/when_evil_lurks/59818324",
+                    "yearOfProduction": 2023,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 11,
+                            "name": "Argentine"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021870899/300/when_evil_lurks.png"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Épouvante-Horreur"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Demián Rugna",
+                            "person_id": 1189022,
+                            "url": "/contact/Demian_Rugna/1189022"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 639
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": null,
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Long-métrage d'animation",
+                    "channel": null,
+                    "dateRelease": "2023-10-06",
+                    "displayedYear": 2023,
+                    "duration": 6000,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-01-31",
+                    "id": 55172077,
+                    "numberOfSeasons": 0,
+                    "rating": 6.4,
+                    "slug": "they_shot_the_piano_player",
+                    "subtitle": null,
+                    "title": "They Shot the Piano Player",
+                    "universe": 1,
+                    "url": "/film/they_shot_the_piano_player/55172077",
+                    "yearOfProduction": 2023,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 209,
+                            "name": "Espagne"
+                        },
+                        {
+                            "id": 76,
+                            "name": "France"
+                        },
+                        {
+                            "id": 157,
+                            "name": "Pays-Bas"
+                        },
+                        {
+                            "id": 178,
+                            "name": "Portugal"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021835510/300/they_shot_the_piano_player.jpg"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Animation"
+                        },
+                        {
+                            "label": "Drame"
+                        },
+                        {
+                            "label": "Historique"
+                        },
+                        {
+                            "label": "Musique"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Fernando Trueba",
+                            "person_id": 29673,
+                            "url": "/contact/Fernando_Trueba/29673"
+                        },
+                        {
+                            "name": "Javier Mariscal",
+                            "person_id": 533284,
+                            "url": "/contact/Javier_Mariscal/533284"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 347
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": null,
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2024-01-05",
+                    "displayedYear": null,
+                    "duration": 6960,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-01-03",
+                    "id": 55038779,
+                    "numberOfSeasons": 0,
+                    "rating": 3.7,
+                    "slug": "night_swim",
+                    "subtitle": null,
+                    "title": "Night Swim",
+                    "universe": 1,
+                    "url": "/film/night_swim/55038779",
+                    "yearOfProduction": 2023,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 236,
+                            "name": "États-Unis"
+                        },
+                        {
+                            "id": 235,
+                            "name": "Royaume-Uni"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021712703/300/night_swim.jpg"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Épouvante-Horreur"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Bryce McGuire",
+                            "person_id": 2943899,
+                            "url": "/contact/Bryce_McGuire/2943899"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 483
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": null,
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2023-12-15",
+                    "displayedYear": null,
+                    "duration": 6600,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-01-24",
+                    "id": 55846623,
+                    "numberOfSeasons": 0,
+                    "rating": 5.5,
+                    "slug": "tout_sauf_toi",
+                    "subtitle": null,
+                    "title": "Tout sauf toi",
+                    "universe": 1,
+                    "url": "/film/tout_sauf_toi/55846623",
+                    "yearOfProduction": 2023,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 236,
+                            "name": "États-Unis"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021826399/300/tout_sauf_toi.png"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Comédie romantique"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Will Gluck",
+                            "person_id": 123887,
+                            "url": "/contact/Will_Gluck/123887"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 583
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": null,
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2023-10-06",
+                    "displayedYear": 2023,
+                    "duration": 6480,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-01-17",
+                    "id": 50735432,
+                    "numberOfSeasons": 0,
+                    "rating": 6.4,
+                    "slug": "l_affaire_de_la_mutinerie_caine",
+                    "subtitle": null,
+                    "title": "L'Affaire de la mutinerie Caine",
+                    "universe": 1,
+                    "url": "/film/l_affaire_de_la_mutinerie_caine/50735432",
+                    "yearOfProduction": 2023,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 236,
+                            "name": "États-Unis"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021864342/300/l_affaire_de_la_mutinerie_caine.jpg"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Drame"
+                        },
+                        {
+                            "label": "Thriller"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "William Friedkin",
+                            "person_id": 8818,
+                            "url": "/contact/William_Friedkin/8818"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 208
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": [
+                        {
+                            "poll": {
+                                "id": 3715615,
+                                "label": "Les meilleurs films streaming de 2024",
+                                "url": "/top/resultats/les_meilleurs_films_streaming_de_2024/3715615"
+                            }
+                        }
+                    ],
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2023-07-20",
+                    "displayedYear": null,
+                    "duration": 8880,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-02-10",
+                    "id": 57919000,
+                    "numberOfSeasons": 0,
+                    "rating": 6.5,
+                    "slug": "creation_of_the_gods_i_kingdom_of_storms",
+                    "subtitle": null,
+                    "title": "Creation of the Gods I: Kingdom of Storms",
+                    "universe": 1,
+                    "url": "/film/creation_of_the_gods_i_kingdom_of_storms/57919000",
+                    "yearOfProduction": 2023,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 46,
+                            "name": "Chine"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021815726/300/creation_of_the_gods_i_kingdom_of_storms.jpg"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Aventure"
+                        },
+                        {
+                            "label": "Drame"
+                        },
+                        {
+                            "label": "Fantastique"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Wuershan",
+                            "person_id": 549894,
+                            "url": "/contact/Wuershan/549894"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 210
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": null,
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2024-01-24",
+                    "displayedYear": 2022,
+                    "duration": 7140,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-01-24",
+                    "id": 55731569,
+                    "numberOfSeasons": 0,
+                    "rating": 6.5,
+                    "slug": "la_grace",
+                    "subtitle": null,
+                    "title": "La Grâce",
+                    "universe": 1,
+                    "url": "/film/la_grace/55731569",
+                    "yearOfProduction": 2023,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 183,
+                            "name": "Russie"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021852842/300/la_grace.jpg"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Drame"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Ilya Povolotsky",
+                            "person_id": 6717857,
+                            "url": "/contact/Ilya_Povolotsky/6717857"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 206
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": null,
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Documentaire",
+                    "channel": null,
+                    "dateRelease": "2024-01-23",
+                    "displayedYear": 2023,
+                    "duration": 3600,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-01-23",
+                    "id": 55674698,
+                    "numberOfSeasons": 0,
+                    "rating": 7.3,
+                    "slug": "man_in_black",
+                    "subtitle": null,
+                    "title": "Man in Black",
+                    "universe": 1,
+                    "url": "/film/man_in_black/55674698",
+                    "yearOfProduction": 2024,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 76,
+                            "name": "France"
+                        },
+                        {
+                            "id": 236,
+                            "name": "États-Unis"
+                        },
+                        {
+                            "id": 235,
+                            "name": "Royaume-Uni"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021369433/300/man_in_black.jpg"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Portrait"
+                        },
+                        {
+                            "label": "Art"
+                        },
+                        {
+                            "label": "Musique"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Wáng Bīng",
+                            "person_id": 85619,
+                            "url": "/contact/Wang_Bing/85619"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 98
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": null,
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2024-01-24",
+                    "displayedYear": 2023,
+                    "duration": 5400,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-01-24",
+                    "id": 57386402,
+                    "numberOfSeasons": 0,
+                    "rating": 6.3,
+                    "slug": "le_dernier_des_juifs",
+                    "subtitle": null,
+                    "title": "Le Dernier des Juifs",
+                    "universe": 1,
+                    "url": "/film/le_dernier_des_juifs/57386402",
+                    "yearOfProduction": 2024,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 76,
+                            "name": "France"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021762106/300/le_dernier_des_juifs.jpg"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Comédie dramatique"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Noé Debré",
+                            "person_id": 1136991,
+                            "url": "/contact/Noe_Debre/1136991"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 552
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": [
+                        {
+                            "poll": {
+                                "id": 3713268,
+                                "label": "Les meilleurs films français de 2024",
+                                "url": "/top/resultats/les_meilleurs_films_francais_de_2024/3713268"
+                            }
+                        }
+                    ],
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2024-01-24",
+                    "displayedYear": 2023,
+                    "duration": 5640,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-01-24",
+                    "id": 61775744,
+                    "numberOfSeasons": 0,
+                    "rating": 6.8,
+                    "slug": "l_homme_d_argile",
+                    "subtitle": null,
+                    "title": "L'Homme d'argile",
+                    "universe": 1,
+                    "url": "/film/l_homme_d_argile/61775744",
+                    "yearOfProduction": 2024,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 76,
+                            "name": "France"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021811607/300/l_homme_d_argile.jpg"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Drame"
+                        },
+                        {
+                            "label": "Romance"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Anaïs Tellenne",
+                            "person_id": 1172860,
+                            "url": "/contact/Anais_Tellenne/1172860"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 229
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": [
+                        {
+                            "poll": {
+                                "id": 3713268,
+                                "label": "Les meilleurs films français de 2024",
+                                "url": "/top/resultats/les_meilleurs_films_francais_de_2024/3713268"
+                            }
+                        }
+                    ],
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2024-01-31",
+                    "displayedYear": 2023,
+                    "duration": 5460,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-01-31",
+                    "id": 61777129,
+                    "numberOfSeasons": 0,
+                    "rating": 5.4,
+                    "slug": "amelia_s_children",
+                    "subtitle": null,
+                    "title": "Amelia's Children",
+                    "universe": 1,
+                    "url": "/film/amelia_s_children/61777129",
+                    "yearOfProduction": 2023,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 178,
+                            "name": "Portugal"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021890113/300/amelia_s_children.png"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Épouvante-Horreur"
+                        },
+                        {
+                            "label": "Thriller"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Gabriel Abrantes",
+                            "person_id": 1092744,
+                            "url": "/contact/Gabriel_Abrantes/1092744"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 353
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": null,
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2023-12-01",
+                    "displayedYear": 2023,
+                    "duration": 6240,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-03-13",
+                    "id": 55732391,
+                    "numberOfSeasons": 0,
+                    "rating": 6.7,
+                    "slug": "the_sweet_east",
+                    "subtitle": null,
+                    "title": "The Sweet East",
+                    "universe": 1,
+                    "url": "/film/the_sweet_east/55732391",
+                    "yearOfProduction": 2023,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 236,
+                            "name": "États-Unis"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021916507/300/the_sweet_east.png"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Aventure"
+                        },
+                        {
+                            "label": "Drame"
+                        },
+                        {
+                            "label": "Fantastique"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Sean Price Williams",
+                            "person_id": 1476644,
+                            "url": "/contact/Sean_Price_Williams/1476644"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 184
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": null,
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Documentaire",
+                    "channel": null,
+                    "dateRelease": "2024-01-31",
+                    "displayedYear": 2023,
+                    "duration": 5340,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-01-31",
+                    "id": 61619157,
+                    "numberOfSeasons": 0,
+                    "rating": 7.5,
+                    "slug": "la_ferme_des_bertrand",
+                    "subtitle": null,
+                    "title": "La Ferme des Bertrand",
+                    "universe": 1,
+                    "url": "/film/la_ferme_des_bertrand/61619157",
+                    "yearOfProduction": 2024,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 76,
+                            "name": "France"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021678268/300/la_ferme_des_bertrand.jpg"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Société"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Gilles Perret",
+                            "person_id": 112539,
+                            "url": "/contact/Gilles_Perret/112539"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 326
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": [
+                        {
+                            "poll": {
+                                "id": 3713268,
+                                "label": "Les meilleurs films français de 2024",
+                                "url": "/top/resultats/les_meilleurs_films_francais_de_2024/3713268"
+                            }
+                        }
+                    ],
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2024-01-12",
+                    "displayedYear": null,
+                    "duration": 6240,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-01-12",
+                    "id": 47185924,
+                    "numberOfSeasons": 0,
+                    "rating": 4.4,
+                    "slug": "en_plein_vol",
+                    "subtitle": null,
+                    "title": "En plein vol",
+                    "universe": 1,
+                    "url": "/film/en_plein_vol/47185924",
+                    "yearOfProduction": 2024,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 236,
+                            "name": "États-Unis"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021854945/300/en_plein_vol.png"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Action"
+                        },
+                        {
+                            "label": "Comédie"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "F. Gary Gray",
+                            "person_id": 33599,
+                            "url": "/contact/F_Gary_Gray/33599"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 560
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": [
+                        {
+                            "poll": {
+                                "id": 3715615,
+                                "label": "Les meilleurs films streaming de 2024",
+                                "url": "/top/resultats/les_meilleurs_films_streaming_de_2024/3715615"
+                            }
+                        }
+                    ],
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2024-03-01",
+                    "displayedYear": null,
+                    "duration": 9960,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-02-28",
+                    "id": 45424060,
+                    "numberOfSeasons": 0,
+                    "rating": 8.6,
+                    "slug": "dune_deuxieme_partie",
+                    "subtitle": null,
+                    "title": "Dune - Deuxième partie",
+                    "universe": 1,
+                    "url": "/film/dune_deuxieme_partie/45424060",
+                    "yearOfProduction": 2024,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 236,
+                            "name": "États-Unis"
+                        },
+                        {
+                            "id": 40,
+                            "name": "Canada"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021882399/300/dune_deuxieme_partie.png"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Science-fiction"
+                        },
+                        {
+                            "label": "Drame"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Denis Villeneuve",
+                            "person_id": 42786,
+                            "url": "/contact/Denis_Villeneuve/42786"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 45
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": [
+                        {
+                            "poll": {
+                                "id": 3637547,
+                                "label": "Les films les plus attendus de 2024",
+                                "url": "/top/resultats/les_films_les_plus_attendus_de_2024/3637547"
+                            }
+                        },
+                        {
+                            "poll": {
+                                "id": 3319985,
+                                "label": "Les films les plus attendus de 2023",
+                                "url": "/top/resultats/les_films_les_plus_attendus_de_2023/3319985"
+                            }
+                        }
+                    ],
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2023-10-06",
+                    "displayedYear": null,
+                    "duration": 6600,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-01-05",
+                    "id": 44886976,
+                    "numberOfSeasons": 0,
+                    "rating": 5.4,
+                    "slug": "foe",
+                    "subtitle": null,
+                    "title": "Foe",
+                    "universe": 1,
+                    "url": "/film/foe/44886976",
+                    "yearOfProduction": 2023,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 236,
+                            "name": "États-Unis"
+                        },
+                        {
+                            "id": 14,
+                            "name": "Australie"
+                        },
+                        {
+                            "id": 235,
+                            "name": "Royaume-Uni"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021843008/300/foe.png"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Drame"
+                        },
+                        {
+                            "label": "Science-fiction"
+                        },
+                        {
+                            "label": "Thriller"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Garth Davis",
+                            "person_id": 2079437,
+                            "url": "/contact/Garth_Davis/2079437"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 317
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": [
+                        {
+                            "poll": {
+                                "id": 3715615,
+                                "label": "Les meilleurs films streaming de 2024",
+                                "url": "/top/resultats/les_meilleurs_films_streaming_de_2024/3715615"
+                            }
+                        }
+                    ],
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Long-métrage d'animation",
+                    "channel": null,
+                    "dateRelease": "2023-09-08",
+                    "displayedYear": 2023,
+                    "duration": 5640,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-01-24",
+                    "id": 53767739,
+                    "numberOfSeasons": 0,
+                    "rating": 5.6,
+                    "slug": "city_hunter_angel_dust",
+                    "subtitle": null,
+                    "title": "City Hunter: Angel Dust",
+                    "universe": 1,
+                    "url": "/film/city_hunter_angel_dust/53767739",
+                    "yearOfProduction": 2023,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 112,
+                            "name": "Japon"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021561665/300/city_hunter_angel_dust.jpg"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Animation"
+                        },
+                        {
+                            "label": "Action"
+                        },
+                        {
+                            "label": "Comédie"
+                        },
+                        {
+                            "label": "Policier"
+                        },
+                        {
+                            "label": "Romance"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Kenji Kodama",
+                            "person_id": 1796463,
+                            "url": "/contact/Kenji_Kodama/1796463"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 217
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": null,
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Long-métrage d'animation",
+                    "channel": null,
+                    "dateRelease": "2024-02-21",
+                    "displayedYear": 2023,
+                    "duration": 6720,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-02-21",
+                    "id": 54348929,
+                    "numberOfSeasons": 0,
+                    "rating": 7,
+                    "slug": "le_royaume_des_abysses",
+                    "subtitle": null,
+                    "title": "Le Royaume des abysses",
+                    "universe": 1,
+                    "url": "/film/le_royaume_des_abysses/54348929",
+                    "yearOfProduction": 2023,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 46,
+                            "name": "Chine"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021772089/300/le_royaume_des_abysses.jpg"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Animation"
+                        },
+                        {
+                            "label": "Aventure"
+                        },
+                        {
+                            "label": "Drame"
+                        },
+                        {
+                            "label": "Fantastique"
+                        },
+                        {
+                            "label": "Jeunesse"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Tian Xiao-Peng",
+                            "person_id": 2632562,
+                            "url": "/contact/Tian_XiaoPeng/2632562"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 159
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": null,
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2023-05-04",
+                    "displayedYear": null,
+                    "duration": 5940,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-03-06",
+                    "id": 55163890,
+                    "numberOfSeasons": 0,
+                    "rating": 7.2,
+                    "slug": "la_salle_des_profs",
+                    "subtitle": null,
+                    "title": "La Salle des profs",
+                    "universe": 1,
+                    "url": "/film/la_salle_des_profs/55163890",
+                    "yearOfProduction": 2023,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 83,
+                            "name": "Allemagne"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021902033/300/la_salle_des_profs.png"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Drame"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "İlker Çatak",
+                            "person_id": 2858444,
+                            "url": "/contact/Ilker_Catak/2858444"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 139
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": null,
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2024-01-10",
+                    "displayedYear": 2023,
+                    "duration": 7380,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-01-10",
+                    "id": 55674662,
+                    "numberOfSeasons": 0,
+                    "rating": 5.6,
+                    "slug": "bonnard_pierre_et_marthe",
+                    "subtitle": null,
+                    "title": "Bonnard, Pierre et Marthe",
+                    "universe": 1,
+                    "url": "/film/bonnard_pierre_et_marthe/55674662",
+                    "yearOfProduction": 2024,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 76,
+                            "name": "France"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021561978/300/bonnard_pierre_et_marthe.jpg"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Biopic"
+                        },
+                        {
+                            "label": "Drame"
+                        },
+                        {
+                            "label": "Romance"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Martin Provost",
+                            "person_id": 24369,
+                            "url": "/contact/Martin_Provost/24369"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 437
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": [
+                        {
+                            "poll": {
+                                "id": 3713268,
+                                "label": "Les meilleurs films français de 2024",
+                                "url": "/top/resultats/les_meilleurs_films_francais_de_2024/3713268"
+                            }
+                        }
+                    ],
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Film",
+                    "channel": null,
+                    "dateRelease": "2024-02-29",
+                    "displayedYear": 2023,
+                    "duration": 6420,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-02-07",
+                    "id": 68032073,
+                    "numberOfSeasons": 0,
+                    "rating": 5.4,
+                    "slug": "race_for_glory_audi_vs_lancia",
+                    "subtitle": null,
+                    "title": "Race for Glory - Audi vs Lancia",
+                    "universe": 1,
+                    "url": "/film/race_for_glory_audi_vs_lancia/68032073",
+                    "yearOfProduction": 2024,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 110,
+                            "name": "Italie"
+                        },
+                        {
+                            "id": 235,
+                            "name": "Royaume-Uni"
+                        },
+                        {
+                            "id": 107,
+                            "name": "Irlande"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021838820/300/race_for_glory_audi_vs_lancia.jpg"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Biopic"
+                        },
+                        {
+                            "label": "Drame"
+                        },
+                        {
+                            "label": "Sport"
+                        },
+                        {
+                            "label": "Thriller"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Stefano Mordini",
+                            "person_id": 98706,
+                            "url": "/contact/Stefano_Mordini/98706"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 219
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": [
+                        {
+                            "poll": {
+                                "id": 1393063,
+                                "label": "Les meilleurs films sur le monde de l'automobile",
+                                "url": "/top/resultats/les_meilleurs_films_sur_le_monde_de_l_automobile/1393063"
+                            }
+                        }
+                    ],
+                    "scoutsAverage": null
+                },
+                {
+                    "category": "Long-métrage d'animation",
+                    "channel": null,
+                    "dateRelease": "2023-09-15",
+                    "displayedYear": 2023,
+                    "duration": 5820,
+                    "episodeNumber": null,
+                    "seasonNumber": null,
+                    "frenchReleaseDate": "2024-01-31",
+                    "id": 47735179,
+                    "numberOfSeasons": 0,
+                    "rating": 6.3,
+                    "slug": "leo_la_fabuleuse_histoire_de_leonard_de_vinci",
+                    "subtitle": null,
+                    "title": "Léo - La fabuleuse histoire de Léonard de Vinci",
+                    "universe": 1,
+                    "url": "/film/leo_la_fabuleuse_histoire_de_leonard_de_vinci/47735179",
+                    "yearOfProduction": 2024,
+                    "tvChannel": [],
+                    "countries": [
+                        {
+                            "id": 236,
+                            "name": "États-Unis"
+                        },
+                        {
+                            "id": 107,
+                            "name": "Irlande"
+                        },
+                        {
+                            "id": 76,
+                            "name": "France"
+                        },
+                        {
+                            "id": 130,
+                            "name": "Luxembourg"
+                        }
+                    ],
+                    "medias": {
+                        "picture": "https://media.senscritique.com/media/000021737300/300/leo_la_fabuleuse_histoire_de_leonard_de_vinci.jpg"
+                    },
+                    "genresInfos": [
+                        {
+                            "label": "Animation"
+                        },
+                        {
+                            "label": "Biopic"
+                        },
+                        {
+                            "label": "Aventure"
+                        },
+                        {
+                            "label": "Comédie"
+                        },
+                        {
+                            "label": "Jeunesse"
+                        }
+                    ],
+                    "directors": [
+                        {
+                            "name": "Jim Capobianco",
+                            "person_id": 127386,
+                            "url": "/contact/Jim_Capobianco/127386"
+                        },
+                        {
+                            "name": "Pierre-Luc Granjon",
+                            "person_id": 74620,
+                            "url": "/contact/PierreLuc_Granjon/74620"
+                        }
+                    ],
+                    "stats": {
+                        "ratingCount": 128
+                    },
+                    "albums": null,
+                    "currentUserInfos": null,
+                    "polls": null,
+                    "scoutsAverage": null
+                }
+            ],
+            "userAnswer": null,
+            "completionPercentage": null,
+            "badge": null
+        }
+    }
+}
