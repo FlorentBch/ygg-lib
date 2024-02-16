@@ -1,0 +1,1178 @@
+{
+    "data": {
+        "streamingExplorer": {
+            "myProviders": null,
+            "filters": {
+                "period": {
+                    "min": 1958,
+                    "max": 2024,
+                    "__typename": "Period"
+                },
+                "genres": [
+                    {
+                        "id": 9741,
+                        "name": "Drame",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9742,
+                        "name": "Romance",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9743,
+                        "name": "Action",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9745,
+                        "name": "Science-fiction",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9746,
+                        "name": "Aventure",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9747,
+                        "name": "Fantastique",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9748,
+                        "name": "Comédie",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9749,
+                        "name": "Guerre",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9750,
+                        "name": "Thriller",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9751,
+                        "name": "Épouvante-horreur",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9752,
+                        "name": "Historique",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9753,
+                        "name": "Biopic",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9754,
+                        "name": "Western",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9755,
+                        "name": "Policier",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9756,
+                        "name": "Documentaire",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9757,
+                        "name": "Comédie dramatique",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9758,
+                        "name": "Animation",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9761,
+                        "name": "Péplum",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9762,
+                        "name": "Arts martiaux",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9763,
+                        "name": "Bollywood",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9799,
+                        "name": "Expérimental",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 9805,
+                        "name": "Musique",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 13338,
+                        "name": "Mini-série",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 13339,
+                        "name": "Sport",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 13340,
+                        "name": "Jeunesse",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 13341,
+                        "name": "Soap",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 13881,
+                        "name": "Cuisine",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 13915,
+                        "name": "Fantasy",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 13950,
+                        "name": "Josei",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 14026,
+                        "name": "Seinen",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 14030,
+                        "name": "Shōjo",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 14031,
+                        "name": "Shōnen",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 14068,
+                        "name": "Télé-réalité",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 14554,
+                        "name": "Judiciaire",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 14555,
+                        "name": "Érotique",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 14556,
+                        "name": "Kodomo",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 14631,
+                        "name": "Médical",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 14688,
+                        "name": "Talk Show",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 14689,
+                        "name": "Anthologique",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 14718,
+                        "name": "Jeu télévisé & divertissement",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 14719,
+                        "name": "Voyage",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 14720,
+                        "name": "Maison & jardin",
+                        "__typename": "GenreStreamingItem"
+                    },
+                    {
+                        "id": 14722,
+                        "name": "Ecchi",
+                        "__typename": "GenreStreamingItem"
+                    }
+                ],
+                "countries": [
+                    {
+                        "id": 11,
+                        "name": "Argentine",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 14,
+                        "name": "Australie",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 15,
+                        "name": "Autriche",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 21,
+                        "name": "Biélorussie",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 22,
+                        "name": "Belgique",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 32,
+                        "name": "Brésil",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 35,
+                        "name": "Bulgarie",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 40,
+                        "name": "Canada",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 45,
+                        "name": "Chili",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 46,
+                        "name": "Chine",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 49,
+                        "name": "Colombie",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 54,
+                        "name": "Costa Rica",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 56,
+                        "name": "Croatie",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 60,
+                        "name": "Tchéquie",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 61,
+                        "name": "Danemark",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 64,
+                        "name": "République dominicaine",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 66,
+                        "name": "Égypte",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 73,
+                        "name": "Îles Féroé",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 74,
+                        "name": "Fidji",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 75,
+                        "name": "Finlande",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 76,
+                        "name": "France",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 83,
+                        "name": "Allemagne",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 100,
+                        "name": "Hong Kong",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 101,
+                        "name": "Hongrie",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 102,
+                        "name": "Islande",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 103,
+                        "name": "Inde",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 104,
+                        "name": "Indonésie",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 107,
+                        "name": "Irlande",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 109,
+                        "name": "Israël",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 110,
+                        "name": "Italie",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 112,
+                        "name": "Japon",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 114,
+                        "name": "Jordanie",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 116,
+                        "name": "Kenya",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 119,
+                        "name": "Corée du Sud",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 120,
+                        "name": "Koweït",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 123,
+                        "name": "Lettonie",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 124,
+                        "name": "Liban",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 130,
+                        "name": "Luxembourg",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 132,
+                        "name": "République de Macédoine du Nord",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 138,
+                        "name": "Malte",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 141,
+                        "name": "Mauritanie",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 144,
+                        "name": "Mexique",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 151,
+                        "name": "Maroc",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 152,
+                        "name": "Mozambique",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 157,
+                        "name": "Pays-Bas",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 159,
+                        "name": "Nouvelle-Zélande",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 162,
+                        "name": "Nigéria",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 166,
+                        "name": "Norvège",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 174,
+                        "name": "Pérou",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 175,
+                        "name": "Philippines",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 177,
+                        "name": "Pologne",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 178,
+                        "name": "Portugal",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 179,
+                        "name": "Porto Rico",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 182,
+                        "name": "Roumanie",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 183,
+                        "name": "Russie",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 195,
+                        "name": "Arabie saoudite",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 197,
+                        "name": "Serbie",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 200,
+                        "name": "Singapour",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 202,
+                        "name": "Slovaquie",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 203,
+                        "name": "Slovénie",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 206,
+                        "name": "Afrique du Sud",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 209,
+                        "name": "Espagne",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 215,
+                        "name": "Suède",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 216,
+                        "name": "Suisse",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 218,
+                        "name": "Taïwan",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 220,
+                        "name": "Tanzanie",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 221,
+                        "name": "Thaïlande",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 227,
+                        "name": "Tunisie",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 228,
+                        "name": "Turquie",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 232,
+                        "name": "Ouganda",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 233,
+                        "name": "Ukraine",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 235,
+                        "name": "Royaume-Uni",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 236,
+                        "name": "États-Unis",
+                        "__typename": "Country"
+                    },
+                    {
+                        "id": 249,
+                        "name": "Zimbabwe",
+                        "__typename": "Country"
+                    }
+                ],
+                "providers": [
+                    {
+                        "id": 1,
+                        "name": "Netflix",
+                        "tablePrefix": "Netflix",
+                        "__typename": "Provider"
+                    },
+                    {
+                        "id": 2,
+                        "name": "Prime Video",
+                        "tablePrefix": "Prime Video",
+                        "__typename": "Provider"
+                    },
+                    {
+                        "id": 3,
+                        "name": "OCS",
+                        "tablePrefix": "OCS",
+                        "__typename": "Provider"
+                    },
+                    {
+                        "id": 4,
+                        "name": "Canal+",
+                        "tablePrefix": "Canal+",
+                        "__typename": "Provider"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Apple TV+",
+                        "tablePrefix": "Apple TV+",
+                        "__typename": "Provider"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Disney+",
+                        "tablePrefix": "Disney+",
+                        "__typename": "Provider"
+                    },
+                    {
+                        "id": 9,
+                        "name": "France TV",
+                        "tablePrefix": "France TV",
+                        "__typename": "Provider"
+                    },
+                    {
+                        "id": 10,
+                        "name": "Madelen",
+                        "tablePrefix": "Madelen",
+                        "__typename": "Provider"
+                    }
+                ],
+                "__typename": "StreamingFilters"
+            },
+            "products": [
+                {
+                    "id": 69521338,
+                    "rating": 6.9,
+                    "slug": "squeezie_merci_internet",
+                    "title": "Squeezie : Merci Internet",
+                    "universe": 4,
+                    "url": "/serie/squeezie_merci_internet/69521338",
+                    "yearOfProduction": 2024,
+                    "medias": {
+                        "backdrop": "https://media.senscritique.com/media/000021866985/1200/squeezie_merci_internet.jpg",
+                        "picture": "https://media.senscritique.com/media/000021870716/300/squeezie_merci_internet.png",
+                        "screenshot": "https://media.senscritique.com/missing/701/300x0/missing.png",
+                        "__typename": "ProductMedia"
+                    },
+                    "__typename": "Product",
+                    "scoutsAverage": null,
+                    "currentUserInfos": null,
+                    "providers": [
+                        {
+                            "providerId": 2,
+                            "name": "Prime Video",
+                            "webUrl": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTItMCIsImRhdGEiOnsicHJvdmlkZXIiOiJBbWF6b24gUHJpbWUgVmlkZW8iLCJtb25ldGl6YXRpb25UeXBlIjoiZmxhdHJhdGUiLCJwcmVzZW50YXRpb25UeXBlIjoiNGsiLCJjdXJyZW5jeSI6IkVVUiIsInByaWNlIjowLCJvcmlnaW5hbFByaWNlIjowLCJhdWRpb0xhbmd1YWdlIjoiIiwic3VidGl0bGVMYW5ndWFnZSI6IiIsImNpbmVtYUlkIjowLCJzaG93dGltZSI6IiIsImlzRmF2b3JpdGVDaW5lbWEiOmZhbHNlLCJwYXJ0bmVySWQiOjksInByb3ZpZGVySWQiOjExOSwiY2xpY2tvdXRUeXBlIjoianctY29udGVudC1wYXJ0bmVyLWV4cG9ydC1hcGkifX0seyJzY2hlbWEiOiJpZ2x1OmNvbS5qdXN0d2F0Y2gvdGl0bGVfY29udGV4dC9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6eyJ0aXRsZUlkIjo0MTczMjMsIm9iamVjdFR5cGUiOiJzaG93IiwiandFbnRpdHlJZCI6InRzNDE3MzIzIn19XX0&r=https%3A%2F%2Fapp.primevideo.com%2Fdetail%3Fgti%3Damzn1.dv.gti.533622b9-f877-4904-afc4-8afb9e745a19&uct_country=fr",
+                            "__typename": "ProductProvider"
+                        }
+                    ]
+                },
+                {
+                    "id": 15469675,
+                    "rating": 6.8,
+                    "slug": "masters_of_the_air",
+                    "title": "Masters of the Air",
+                    "universe": 4,
+                    "url": "/serie/masters_of_the_air/15469675",
+                    "yearOfProduction": 2024,
+                    "medias": {
+                        "backdrop": "https://media.senscritique.com/media/000021884504/1200/masters_of_the_air.jpg",
+                        "picture": "https://media.senscritique.com/media/000021884499/300/masters_of_the_air.png",
+                        "screenshot": "https://media.senscritique.com/missing/701/300x0/missing.png",
+                        "__typename": "ProductMedia"
+                    },
+                    "__typename": "Product",
+                    "scoutsAverage": null,
+                    "currentUserInfos": null,
+                    "providers": [
+                        {
+                            "providerId": 6,
+                            "name": "Apple TV+",
+                            "webUrl": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTItMCIsImRhdGEiOnsicHJvdmlkZXIiOiJBcHBsZSBUViBQbHVzIiwibW9uZXRpemF0aW9uVHlwZSI6ImZsYXRyYXRlIiwicHJlc2VudGF0aW9uVHlwZSI6IjRrIiwiY3VycmVuY3kiOiJFVVIiLCJwcmljZSI6MCwib3JpZ2luYWxQcmljZSI6MCwiYXVkaW9MYW5ndWFnZSI6IiIsInN1YnRpdGxlTGFuZ3VhZ2UiOiIiLCJjaW5lbWFJZCI6MCwic2hvd3RpbWUiOiIiLCJpc0Zhdm9yaXRlQ2luZW1hIjpmYWxzZSwicGFydG5lcklkIjo5LCJwcm92aWRlcklkIjozNTAsImNsaWNrb3V0VHlwZSI6Imp3LWNvbnRlbnQtcGFydG5lci1leHBvcnQtYXBpIn19LHsic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL3RpdGxlX2NvbnRleHQvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsidGl0bGVJZCI6NDEzMzEsIm9iamVjdFR5cGUiOiJzaG93IiwiandFbnRpdHlJZCI6InRzNDEzMzEifX1dfQ&r=https%3A%2F%2Ftv.apple.com%2Ffr%2Fepisode%2Fpart-one%2Fumc.cmc.6q0caesashz5rgmrv4n51qmb7%3Fat%3D1000l3V2%26ct%3Dapp_tvplus%26itscg%3D30200%26itsct%3Djustwatch_tv_12%26playableId%3Dtvs.sbd.4000%253AA0019301001%26showId%3Dumc.cmc.7bxcni0vwgll9kmicq738k5q2&uct_country=fr",
+                            "__typename": "ProductProvider"
+                        }
+                    ]
+                },
+                {
+                    "id": 44040193,
+                    "rating": 6.8,
+                    "slug": "mr_and_mrs_smith",
+                    "title": "Mr and Mrs Smith",
+                    "universe": 4,
+                    "url": "/serie/mr_and_mrs_smith/44040193",
+                    "yearOfProduction": 2024,
+                    "medias": {
+                        "backdrop": "https://media.senscritique.com/media/000021783166/1200/mr_and_mrs_smith.jpg",
+                        "picture": "https://media.senscritique.com/media/000021891656/300/mr_and_mrs_smith.png",
+                        "screenshot": "https://media.senscritique.com/missing/701/300x0/missing.png",
+                        "__typename": "ProductMedia"
+                    },
+                    "__typename": "Product",
+                    "scoutsAverage": null,
+                    "currentUserInfos": null,
+                    "providers": [
+                        {
+                            "providerId": 2,
+                            "name": "Prime Video",
+                            "webUrl": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTItMCIsImRhdGEiOnsicHJvdmlkZXIiOiJBbWF6b24gUHJpbWUgVmlkZW8iLCJtb25ldGl6YXRpb25UeXBlIjoiZmxhdHJhdGUiLCJwcmVzZW50YXRpb25UeXBlIjoiNGsiLCJjdXJyZW5jeSI6IkVVUiIsInByaWNlIjowLCJvcmlnaW5hbFByaWNlIjowLCJhdWRpb0xhbmd1YWdlIjoiIiwic3VidGl0bGVMYW5ndWFnZSI6IiIsImNpbmVtYUlkIjowLCJzaG93dGltZSI6IiIsImlzRmF2b3JpdGVDaW5lbWEiOmZhbHNlLCJwYXJ0bmVySWQiOjksInByb3ZpZGVySWQiOjExOSwiY2xpY2tvdXRUeXBlIjoianctY29udGVudC1wYXJ0bmVyLWV4cG9ydC1hcGkifX0seyJzY2hlbWEiOiJpZ2x1OmNvbS5qdXN0d2F0Y2gvdGl0bGVfY29udGV4dC9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6eyJ0aXRsZUlkIjoyNzI4MTQsIm9iamVjdFR5cGUiOiJzaG93IiwiandFbnRpdHlJZCI6InRzMjcyODE0In19XX0&r=https%3A%2F%2Fapp.primevideo.com%2Fdetail%3Fgti%3Damzn1.dv.gti.162cbf12-a59d-47ab-bdd5-acd2995bdd26&uct_country=fr",
+                            "__typename": "ProductProvider"
+                        }
+                    ]
+                },
+                {
+                    "id": 45473590,
+                    "rating": 6.3,
+                    "slug": "griselda",
+                    "title": "Griselda",
+                    "universe": 4,
+                    "url": "/serie/griselda/45473590",
+                    "yearOfProduction": 2024,
+                    "medias": {
+                        "backdrop": "https://media.senscritique.com/media/000021563522/1200/griselda.jpg",
+                        "picture": "https://media.senscritique.com/media/000021877038/300/griselda.png",
+                        "screenshot": "https://media.senscritique.com/missing/701/300x0/missing.png",
+                        "__typename": "ProductMedia"
+                    },
+                    "__typename": "Product",
+                    "scoutsAverage": null,
+                    "currentUserInfos": null,
+                    "providers": [
+                        {
+                            "providerId": 1,
+                            "name": "Netflix",
+                            "webUrl": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTItMCIsImRhdGEiOnsicHJvdmlkZXIiOiJOZXRmbGl4IiwibW9uZXRpemF0aW9uVHlwZSI6ImZsYXRyYXRlIiwicHJlc2VudGF0aW9uVHlwZSI6IjRrIiwiY3VycmVuY3kiOiJFVVIiLCJwcmljZSI6MCwib3JpZ2luYWxQcmljZSI6MCwiYXVkaW9MYW5ndWFnZSI6IiIsInN1YnRpdGxlTGFuZ3VhZ2UiOiIiLCJjaW5lbWFJZCI6MCwic2hvd3RpbWUiOiIiLCJpc0Zhdm9yaXRlQ2luZW1hIjpmYWxzZSwicGFydG5lcklkIjo5LCJwcm92aWRlcklkIjo4LCJjbGlja291dFR5cGUiOiJqdy1jb250ZW50LXBhcnRuZXItZXhwb3J0LWFwaSJ9fSx7InNjaGVtYSI6ImlnbHU6Y29tLmp1c3R3YXRjaC90aXRsZV9jb250ZXh0L2pzb25zY2hlbWEvMS0wLTAiLCJkYXRhIjp7InRpdGxlSWQiOjMxNzEyMywib2JqZWN0VHlwZSI6InNob3ciLCJqd0VudGl0eUlkIjoidHMzMTcxMjMifX1dfQ&r=http%3A%2F%2Fwww.netflix.com%2Ftitle%2F81133447&uct_country=fr",
+                            "__typename": "ProductProvider"
+                        }
+                    ]
+                },
+                {
+                    "id": 49748986,
+                    "rating": 5.9,
+                    "slug": "de_grace",
+                    "title": "De grâce",
+                    "universe": 4,
+                    "url": "/serie/de_grace/49748986",
+                    "yearOfProduction": 2024,
+                    "medias": {
+                        "backdrop": "https://media.senscritique.com/media/000021262014/1200/de_grace.jpg",
+                        "picture": "https://media.senscritique.com/media/000021859529/300/de_grace.jpg",
+                        "screenshot": "https://media.senscritique.com/missing/701/300x0/missing.png",
+                        "__typename": "ProductMedia"
+                    },
+                    "__typename": "Product",
+                    "scoutsAverage": null,
+                    "currentUserInfos": null,
+                    "providers": [
+                        {
+                            "providerId": 4,
+                            "name": "Canal+",
+                            "webUrl": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTItMCIsImRhdGEiOnsicHJvdmlkZXIiOiJDYW5hbCsiLCJtb25ldGl6YXRpb25UeXBlIjoiZmxhdHJhdGUiLCJwcmVzZW50YXRpb25UeXBlIjoiaGQiLCJjdXJyZW5jeSI6IkVVUiIsInByaWNlIjowLCJvcmlnaW5hbFByaWNlIjowLCJhdWRpb0xhbmd1YWdlIjoiIiwic3VidGl0bGVMYW5ndWFnZSI6IiIsImNpbmVtYUlkIjowLCJzaG93dGltZSI6IiIsImlzRmF2b3JpdGVDaW5lbWEiOmZhbHNlLCJwYXJ0bmVySWQiOjksInByb3ZpZGVySWQiOjM4MSwiY2xpY2tvdXRUeXBlIjoianctY29udGVudC1wYXJ0bmVyLWV4cG9ydC1hcGkifX0seyJzY2hlbWEiOiJpZ2x1OmNvbS5qdXN0d2F0Y2gvdGl0bGVfY29udGV4dC9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6eyJ0aXRsZUlkIjozNjQ0OTAsIm9iamVjdFR5cGUiOiJzaG93IiwiandFbnRpdHlJZCI6InRzMzY0NDkwIn19XX0&r=https%3A%2F%2Fwww.mycanal.fr%2Fseries%2Fde-grace%2Fh%2F24110177_50008%3Fparams%5BepisodeId%5D%3D24071300_50008&uct_country=fr",
+                            "__typename": "ProductProvider"
+                        }
+                    ]
+                },
+                {
+                    "id": 74237369,
+                    "rating": 6.7,
+                    "slug": "rael_le_prophete_des_extraterrestres",
+                    "title": "Raël : Le Prophète des extraterrestres",
+                    "universe": 4,
+                    "url": "/serie/rael_le_prophete_des_extraterrestres/74237369",
+                    "yearOfProduction": 2024,
+                    "medias": {
+                        "backdrop": "https://media.senscritique.com/media/000021878530/1200/rael_le_prophete_des_extraterrestres.jpg",
+                        "picture": "https://media.senscritique.com/media/000021878509/300/rael_le_prophete_des_extraterrestres.png",
+                        "screenshot": "https://media.senscritique.com/missing/701/300x0/missing.png",
+                        "__typename": "ProductMedia"
+                    },
+                    "__typename": "Product",
+                    "scoutsAverage": null,
+                    "currentUserInfos": null,
+                    "providers": [
+                        {
+                            "providerId": 1,
+                            "name": "Netflix",
+                            "webUrl": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTItMCIsImRhdGEiOnsicHJvdmlkZXIiOiJOZXRmbGl4IiwibW9uZXRpemF0aW9uVHlwZSI6ImZsYXRyYXRlIiwicHJlc2VudGF0aW9uVHlwZSI6IjRrIiwiY3VycmVuY3kiOiJFVVIiLCJwcmljZSI6MCwib3JpZ2luYWxQcmljZSI6MCwiYXVkaW9MYW5ndWFnZSI6IiIsInN1YnRpdGxlTGFuZ3VhZ2UiOiIiLCJjaW5lbWFJZCI6MCwic2hvd3RpbWUiOiIiLCJpc0Zhdm9yaXRlQ2luZW1hIjpmYWxzZSwicGFydG5lcklkIjo5LCJwcm92aWRlcklkIjo4LCJjbGlja291dFR5cGUiOiJqdy1jb250ZW50LXBhcnRuZXItZXhwb3J0LWFwaSJ9fSx7InNjaGVtYSI6ImlnbHU6Y29tLmp1c3R3YXRjaC90aXRsZV9jb250ZXh0L2pzb25zY2hlbWEvMS0wLTAiLCJkYXRhIjp7InRpdGxlSWQiOjQxNjMzNiwib2JqZWN0VHlwZSI6InNob3ciLCJqd0VudGl0eUlkIjoidHM0MTYzMzYifX1dfQ&r=http%3A%2F%2Fwww.netflix.com%2Ftitle%2F81330942&uct_country=fr",
+                            "__typename": "ProductProvider"
+                        }
+                    ]
+                },
+                {
+                    "id": 50292908,
+                    "rating": 6.8,
+                    "slug": "gloutons_dragons",
+                    "title": "Gloutons & Dragons",
+                    "universe": 4,
+                    "url": "/serie/gloutons_dragons/50292908",
+                    "yearOfProduction": 2023,
+                    "medias": {
+                        "backdrop": "https://media.senscritique.com/media/000021843352/1200/gloutons_dragons.jpg",
+                        "picture": "https://media.senscritique.com/media/000021866735/300/gloutons_dragons.jpg",
+                        "screenshot": "https://media.senscritique.com/missing/701/300x0/missing.png",
+                        "__typename": "ProductMedia"
+                    },
+                    "__typename": "Product",
+                    "scoutsAverage": null,
+                    "currentUserInfos": null,
+                    "providers": [
+                        {
+                            "providerId": 1,
+                            "name": "Netflix",
+                            "webUrl": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTItMCIsImRhdGEiOnsicHJvdmlkZXIiOiJOZXRmbGl4IiwibW9uZXRpemF0aW9uVHlwZSI6ImZsYXRyYXRlIiwicHJlc2VudGF0aW9uVHlwZSI6ImhkIiwiY3VycmVuY3kiOiJFVVIiLCJwcmljZSI6MCwib3JpZ2luYWxQcmljZSI6MCwiYXVkaW9MYW5ndWFnZSI6IiIsInN1YnRpdGxlTGFuZ3VhZ2UiOiIiLCJjaW5lbWFJZCI6MCwic2hvd3RpbWUiOiIiLCJpc0Zhdm9yaXRlQ2luZW1hIjpmYWxzZSwicGFydG5lcklkIjo5LCJwcm92aWRlcklkIjo4LCJjbGlja291dFR5cGUiOiJqdy1jb250ZW50LXBhcnRuZXItZXhwb3J0LWFwaSJ9fSx7InNjaGVtYSI6ImlnbHU6Y29tLmp1c3R3YXRjaC90aXRsZV9jb250ZXh0L2pzb25zY2hlbWEvMS0wLTAiLCJkYXRhIjp7InRpdGxlSWQiOjM2MzQwNywib2JqZWN0VHlwZSI6InNob3ciLCJqd0VudGl0eUlkIjoidHMzNjM0MDcifX1dfQ&r=http%3A%2F%2Fwww.netflix.com%2Ftitle%2F81564899&uct_country=fr",
+                            "__typename": "ProductProvider"
+                        }
+                    ]
+                },
+                {
+                    "id": 58407810,
+                    "rating": 7.1,
+                    "slug": "le_renard_prince_des_voleurs",
+                    "title": "Le Renard : Prince des voleurs",
+                    "universe": 4,
+                    "url": "/serie/le_renard_prince_des_voleurs/58407810",
+                    "yearOfProduction": 2023,
+                    "medias": {
+                        "backdrop": "https://media.senscritique.com/media/000021644139/1200/le_renard_prince_des_voleurs.jpg",
+                        "picture": "https://media.senscritique.com/media/000021878729/300/le_renard_prince_des_voleurs.png",
+                        "screenshot": "https://media.senscritique.com/missing/701/300x0/missing.png",
+                        "__typename": "ProductMedia"
+                    },
+                    "__typename": "Product",
+                    "scoutsAverage": null,
+                    "currentUserInfos": null,
+                    "providers": [
+                        {
+                            "providerId": 7,
+                            "name": "Disney+",
+                            "webUrl": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTItMCIsImRhdGEiOnsicHJvdmlkZXIiOiJEaXNuZXkgUGx1cyIsIm1vbmV0aXphdGlvblR5cGUiOiJmbGF0cmF0ZSIsInByZXNlbnRhdGlvblR5cGUiOiI0ayIsImN1cnJlbmN5IjoiRVVSIiwicHJpY2UiOjAsIm9yaWdpbmFsUHJpY2UiOjAsImF1ZGlvTGFuZ3VhZ2UiOiIiLCJzdWJ0aXRsZUxhbmd1YWdlIjoiIiwiY2luZW1hSWQiOjAsInNob3d0aW1lIjoiIiwiaXNGYXZvcml0ZUNpbmVtYSI6ZmFsc2UsInBhcnRuZXJJZCI6OSwicHJvdmlkZXJJZCI6MzM3LCJjbGlja291dFR5cGUiOiJqdy1jb250ZW50LXBhcnRuZXItZXhwb3J0LWFwaSJ9fSx7InNjaGVtYSI6ImlnbHU6Y29tLmp1c3R3YXRjaC90aXRsZV9jb250ZXh0L2pzb25zY2hlbWEvMS0wLTAiLCJkYXRhIjp7InRpdGxlSWQiOjQwNzkzOSwib2JqZWN0VHlwZSI6InNob3ciLCJqd0VudGl0eUlkIjoidHM0MDc5MzkifX1dfQ&r=https%3A%2F%2Fdisneyplus.bn5x.net%2Fc%2F1206980%2F705874%2F9358%3Fu%3Dhttps%253A%252F%252Fwww.disneyplus.com%252Fseries%252Fle-renard-prince-des-voleurs%252FOVaLog2e2EIW%26subId3%3Djustappsvod&uct_country=fr",
+                            "__typename": "ProductProvider"
+                        }
+                    ]
+                },
+                {
+                    "id": 74078958,
+                    "rating": 6.6,
+                    "slug": "la_verite_kidnappee_du_reve_au_cauchemar_americain",
+                    "title": "La Vérité kidnappée : Du rêve au cauchemar américain",
+                    "universe": 4,
+                    "url": "/serie/la_verite_kidnappee_du_reve_au_cauchemar_americain/74078958",
+                    "yearOfProduction": 2024,
+                    "medias": {
+                        "backdrop": "https://media.senscritique.com/media/000021886976/1200/la_verite_kidnappee_du_reve_au_cauchemar_americain.jpg",
+                        "picture": "https://media.senscritique.com/media/000021873914/300/la_verite_kidnappee_du_reve_au_cauchemar_americain.jpg",
+                        "screenshot": "https://media.senscritique.com/missing/701/300x0/missing.png",
+                        "__typename": "ProductMedia"
+                    },
+                    "__typename": "Product",
+                    "scoutsAverage": null,
+                    "currentUserInfos": null,
+                    "providers": [
+                        {
+                            "providerId": 1,
+                            "name": "Netflix",
+                            "webUrl": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTItMCIsImRhdGEiOnsicHJvdmlkZXIiOiJOZXRmbGl4IiwibW9uZXRpemF0aW9uVHlwZSI6ImZsYXRyYXRlIiwicHJlc2VudGF0aW9uVHlwZSI6IjRrIiwiY3VycmVuY3kiOiJFVVIiLCJwcmljZSI6MCwib3JpZ2luYWxQcmljZSI6MCwiYXVkaW9MYW5ndWFnZSI6IiIsInN1YnRpdGxlTGFuZ3VhZ2UiOiIiLCJjaW5lbWFJZCI6MCwic2hvd3RpbWUiOiIiLCJpc0Zhdm9yaXRlQ2luZW1hIjpmYWxzZSwicGFydG5lcklkIjo5LCJwcm92aWRlcklkIjo4LCJjbGlja291dFR5cGUiOiJqdy1jb250ZW50LXBhcnRuZXItZXhwb3J0LWFwaSJ9fSx7InNjaGVtYSI6ImlnbHU6Y29tLmp1c3R3YXRjaC90aXRsZV9jb250ZXh0L2pzb25zY2hlbWEvMS0wLTAiLCJkYXRhIjp7InRpdGxlSWQiOjM3MDgyNiwib2JqZWN0VHlwZSI6InNob3ciLCJqd0VudGl0eUlkIjoidHMzNzA4MjYifX1dfQ&r=http%3A%2F%2Fwww.netflix.com%2Ftitle%2F81620852&uct_country=fr",
+                            "__typename": "ProductProvider"
+                        }
+                    ]
+                },
+                {
+                    "id": 67610520,
+                    "rating": 7.3,
+                    "slug": "un_jour",
+                    "title": "Un jour",
+                    "universe": 4,
+                    "url": "/serie/un_jour/67610520",
+                    "yearOfProduction": 2024,
+                    "medias": {
+                        "backdrop": "https://media.senscritique.com/media/000021781994/1200/un_jour.jpg",
+                        "picture": "https://media.senscritique.com/media/000021860453/300/un_jour.png",
+                        "screenshot": "https://media.senscritique.com/missing/701/300x0/missing.png",
+                        "__typename": "ProductMedia"
+                    },
+                    "__typename": "Product",
+                    "scoutsAverage": null,
+                    "currentUserInfos": null,
+                    "providers": [
+                        {
+                            "providerId": 1,
+                            "name": "Netflix",
+                            "webUrl": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTItMCIsImRhdGEiOnsicHJvdmlkZXIiOiJOZXRmbGl4IiwibW9uZXRpemF0aW9uVHlwZSI6ImZsYXRyYXRlIiwicHJlc2VudGF0aW9uVHlwZSI6IjRrIiwiY3VycmVuY3kiOiJFVVIiLCJwcmljZSI6MCwib3JpZ2luYWxQcmljZSI6MCwiYXVkaW9MYW5ndWFnZSI6IiIsInN1YnRpdGxlTGFuZ3VhZ2UiOiIiLCJjaW5lbWFJZCI6MCwic2hvd3RpbWUiOiIiLCJpc0Zhdm9yaXRlQ2luZW1hIjpmYWxzZSwicGFydG5lcklkIjo5LCJwcm92aWRlcklkIjo4LCJjbGlja291dFR5cGUiOiJqdy1jb250ZW50LXBhcnRuZXItZXhwb3J0LWFwaSJ9fSx7InNjaGVtYSI6ImlnbHU6Y29tLmp1c3R3YXRjaC90aXRsZV9jb250ZXh0L2pzb25zY2hlbWEvMS0wLTAiLCJkYXRhIjp7InRpdGxlSWQiOjMyMzc4Mywib2JqZWN0VHlwZSI6InNob3ciLCJqd0VudGl0eUlkIjoidHMzMjM3ODMifX1dfQ&r=http%3A%2F%2Fwww.netflix.com%2Ftitle%2F81256740&uct_country=fr",
+                            "__typename": "ProductProvider"
+                        }
+                    ]
+                },
+                {
+                    "id": 70952324,
+                    "rating": 7.4,
+                    "slug": "hazbin_hotel",
+                    "title": "Hazbin Hotel",
+                    "universe": 4,
+                    "url": "/serie/hazbin_hotel/70952324",
+                    "yearOfProduction": 2024,
+                    "medias": {
+                        "backdrop": "https://media.senscritique.com/media/000018892334/1200/hazbin_hotel.jpg",
+                        "picture": "https://media.senscritique.com/media/000021821395/300/hazbin_hotel.jpg",
+                        "screenshot": "https://media.senscritique.com/missing/701/300x0/missing.png",
+                        "__typename": "ProductMedia"
+                    },
+                    "__typename": "Product",
+                    "scoutsAverage": null,
+                    "currentUserInfos": null,
+                    "providers": [
+                        {
+                            "providerId": 2,
+                            "name": "Prime Video",
+                            "webUrl": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTItMCIsImRhdGEiOnsicHJvdmlkZXIiOiJBbWF6b24gUHJpbWUgVmlkZW8iLCJtb25ldGl6YXRpb25UeXBlIjoiZmxhdHJhdGUiLCJwcmVzZW50YXRpb25UeXBlIjoiaGQiLCJjdXJyZW5jeSI6IkVVUiIsInByaWNlIjowLCJvcmlnaW5hbFByaWNlIjowLCJhdWRpb0xhbmd1YWdlIjoiIiwic3VidGl0bGVMYW5ndWFnZSI6IiIsImNpbmVtYUlkIjowLCJzaG93dGltZSI6IiIsImlzRmF2b3JpdGVDaW5lbWEiOmZhbHNlLCJwYXJ0bmVySWQiOjksInByb3ZpZGVySWQiOjExOSwiY2xpY2tvdXRUeXBlIjoianctY29udGVudC1wYXJ0bmVyLWV4cG9ydC1hcGkifX0seyJzY2hlbWEiOiJpZ2x1OmNvbS5qdXN0d2F0Y2gvdGl0bGVfY29udGV4dC9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6eyJ0aXRsZUlkIjo5NDc2NSwib2JqZWN0VHlwZSI6InNob3ciLCJqd0VudGl0eUlkIjoidHM5NDc2NSJ9fV19&r=https%3A%2F%2Fapp.primevideo.com%2Fdetail%3Fgti%3Damzn1.dv.gti.41954324-9ee9-4895-babe-d40eb5203f29&uct_country=fr",
+                            "__typename": "ProductProvider"
+                        }
+                    ]
+                },
+                {
+                    "id": 44885927,
+                    "rating": 4.7,
+                    "slug": "expats",
+                    "title": "Expats",
+                    "universe": 4,
+                    "url": "/serie/expats/44885927",
+                    "yearOfProduction": 2024,
+                    "medias": {
+                        "backdrop": "https://media.senscritique.com/media/000021562798/1200/expats.jpg",
+                        "picture": "https://media.senscritique.com/media/000021628900/300/expats.jpg",
+                        "screenshot": "https://media.senscritique.com/missing/701/300x0/missing.png",
+                        "__typename": "ProductMedia"
+                    },
+                    "__typename": "Product",
+                    "scoutsAverage": null,
+                    "currentUserInfos": null,
+                    "providers": [
+                        {
+                            "providerId": 2,
+                            "name": "Prime Video",
+                            "webUrl": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTItMCIsImRhdGEiOnsicHJvdmlkZXIiOiJBbWF6b24gUHJpbWUgVmlkZW8iLCJtb25ldGl6YXRpb25UeXBlIjoiZmxhdHJhdGUiLCJwcmVzZW50YXRpb25UeXBlIjoiNGsiLCJjdXJyZW5jeSI6IkVVUiIsInByaWNlIjowLCJvcmlnaW5hbFByaWNlIjowLCJhdWRpb0xhbmd1YWdlIjoiIiwic3VidGl0bGVMYW5ndWFnZSI6IiIsImNpbmVtYUlkIjowLCJzaG93dGltZSI6IiIsImlzRmF2b3JpdGVDaW5lbWEiOmZhbHNlLCJwYXJ0bmVySWQiOjksInByb3ZpZGVySWQiOjExOSwiY2xpY2tvdXRUeXBlIjoianctY29udGVudC1wYXJ0bmVyLWV4cG9ydC1hcGkifX0seyJzY2hlbWEiOiJpZ2x1OmNvbS5qdXN0d2F0Y2gvdGl0bGVfY29udGV4dC9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6eyJ0aXRsZUlkIjoxMDc5MzQsIm9iamVjdFR5cGUiOiJzaG93IiwiandFbnRpdHlJZCI6InRzMTA3OTM0In19XX0&r=https%3A%2F%2Fapp.primevideo.com%2Fdetail%3Fgti%3Damzn1.dv.gti.0082763f-9f84-4764-b6e2-befb43fe6bd0&uct_country=fr",
+                            "__typename": "ProductProvider"
+                        }
+                    ]
+                },
+                {
+                    "id": 56413007,
+                    "rating": 5.6,
+                    "slug": "nudes",
+                    "title": "Nudes",
+                    "universe": 4,
+                    "url": "/serie/nudes/56413007",
+                    "yearOfProduction": 2024,
+                    "medias": {
+                        "backdrop": "https://media.senscritique.com/media/000021893587/1200/nudes.jpg",
+                        "picture": "https://media.senscritique.com/media/000021893581/300/nudes.png",
+                        "screenshot": "https://media.senscritique.com/missing/701/300x0/missing.png",
+                        "__typename": "ProductMedia"
+                    },
+                    "__typename": "Product",
+                    "scoutsAverage": null,
+                    "currentUserInfos": null,
+                    "providers": [
+                        {
+                            "providerId": 2,
+                            "name": "Prime Video",
+                            "webUrl": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTItMCIsImRhdGEiOnsicHJvdmlkZXIiOiJBbWF6b24gUHJpbWUgVmlkZW8iLCJtb25ldGl6YXRpb25UeXBlIjoiZmxhdHJhdGUiLCJwcmVzZW50YXRpb25UeXBlIjoiNGsiLCJjdXJyZW5jeSI6IkVVUiIsInByaWNlIjowLCJvcmlnaW5hbFByaWNlIjowLCJhdWRpb0xhbmd1YWdlIjoiIiwic3VidGl0bGVMYW5ndWFnZSI6IiIsImNpbmVtYUlkIjowLCJzaG93dGltZSI6IiIsImlzRmF2b3JpdGVDaW5lbWEiOmZhbHNlLCJwYXJ0bmVySWQiOjksInByb3ZpZGVySWQiOjExOSwiY2xpY2tvdXRUeXBlIjoianctY29udGVudC1wYXJ0bmVyLWV4cG9ydC1hcGkifX0seyJzY2hlbWEiOiJpZ2x1OmNvbS5qdXN0d2F0Y2gvdGl0bGVfY29udGV4dC9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6eyJ0aXRsZUlkIjoyMjA5MDgsIm9iamVjdFR5cGUiOiJzaG93IiwiandFbnRpdHlJZCI6InRzMjIwOTA4In19XX0&r=https%3A%2F%2Fapp.primevideo.com%2Fdetail%3Fgti%3Damzn1.dv.gti.a5fe98a6-3fcb-4380-b6ab-1de8f614cc6d&uct_country=fr",
+                            "__typename": "ProductProvider"
+                        }
+                    ]
+                },
+                {
+                    "id": 50328248,
+                    "rating": 7.4,
+                    "slug": "a_killer_paradox",
+                    "title": "A Killer Paradox",
+                    "universe": 4,
+                    "url": "/serie/a_killer_paradox/50328248",
+                    "yearOfProduction": 2024,
+                    "medias": {
+                        "backdrop": "https://media.senscritique.com/media/000021853108/1200/a_killer_paradox.png",
+                        "picture": "https://media.senscritique.com/media/000021905806/300/a_killer_paradox.png",
+                        "screenshot": "https://media.senscritique.com/missing/701/300x0/missing.png",
+                        "__typename": "ProductMedia"
+                    },
+                    "__typename": "Product",
+                    "scoutsAverage": null,
+                    "currentUserInfos": null,
+                    "providers": [
+                        {
+                            "providerId": 1,
+                            "name": "Netflix",
+                            "webUrl": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTItMCIsImRhdGEiOnsicHJvdmlkZXIiOiJOZXRmbGl4IiwibW9uZXRpemF0aW9uVHlwZSI6ImZsYXRyYXRlIiwicHJlc2VudGF0aW9uVHlwZSI6IjRrIiwiY3VycmVuY3kiOiJFVVIiLCJwcmljZSI6MCwib3JpZ2luYWxQcmljZSI6MCwiYXVkaW9MYW5ndWFnZSI6IiIsInN1YnRpdGxlTGFuZ3VhZ2UiOiIiLCJjaW5lbWFJZCI6MCwic2hvd3RpbWUiOiIiLCJpc0Zhdm9yaXRlQ2luZW1hIjpmYWxzZSwicGFydG5lcklkIjo5LCJwcm92aWRlcklkIjo4LCJjbGlja291dFR5cGUiOiJqdy1jb250ZW50LXBhcnRuZXItZXhwb3J0LWFwaSJ9fSx7InNjaGVtYSI6ImlnbHU6Y29tLmp1c3R3YXRjaC90aXRsZV9jb250ZXh0L2pzb25zY2hlbWEvMS0wLTAiLCJkYXRhIjp7InRpdGxlSWQiOjM1Mzc2NCwib2JqZWN0VHlwZSI6InNob3ciLCJqd0VudGl0eUlkIjoidHMzNTM3NjQifX1dfQ&r=http%3A%2F%2Fwww.netflix.com%2Ftitle%2F81607354&uct_country=fr",
+                            "__typename": "ProductProvider"
+                        }
+                    ]
+                },
+                {
+                    "id": 46541587,
+                    "rating": null,
+                    "slug": "the_new_look",
+                    "title": "The New Look",
+                    "universe": 4,
+                    "url": "/serie/the_new_look/46541587",
+                    "yearOfProduction": 2024,
+                    "medias": {
+                        "backdrop": "https://media.senscritique.com/media/000021741520/1200/the_new_look.jpg",
+                        "picture": "https://media.senscritique.com/media/000021916595/300/the_new_look.jpg",
+                        "screenshot": "https://media.senscritique.com/missing/701/300x0/missing.png",
+                        "__typename": "ProductMedia"
+                    },
+                    "__typename": "Product",
+                    "scoutsAverage": null,
+                    "currentUserInfos": null,
+                    "providers": [
+                        {
+                            "providerId": 6,
+                            "name": "Apple TV+",
+                            "webUrl": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTItMCIsImRhdGEiOnsicHJvdmlkZXIiOiJBcHBsZSBUViBQbHVzIiwibW9uZXRpemF0aW9uVHlwZSI6ImZsYXRyYXRlIiwicHJlc2VudGF0aW9uVHlwZSI6IjRrIiwiY3VycmVuY3kiOiJFVVIiLCJwcmljZSI6MCwib3JpZ2luYWxQcmljZSI6MCwiYXVkaW9MYW5ndWFnZSI6IiIsInN1YnRpdGxlTGFuZ3VhZ2UiOiIiLCJjaW5lbWFJZCI6MCwic2hvd3RpbWUiOiIiLCJpc0Zhdm9yaXRlQ2luZW1hIjpmYWxzZSwicGFydG5lcklkIjo5LCJwcm92aWRlcklkIjozNTAsImNsaWNrb3V0VHlwZSI6Imp3LWNvbnRlbnQtcGFydG5lci1leHBvcnQtYXBpIn19LHsic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL3RpdGxlX2NvbnRleHQvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsidGl0bGVJZCI6MzMwODc1LCJvYmplY3RUeXBlIjoic2hvdyIsImp3RW50aXR5SWQiOiJ0czMzMDg3NSJ9fV19&r=https%3A%2F%2Ftv.apple.com%2Ffr%2Fepisode%2Fjust-you-wait-and-see%2Fumc.cmc.6mwqp33yo850cczmbnn2czngp%3Fat%3D1000l3V2%26ct%3Dapp_tvplus%26itscg%3D30200%26itsct%3Djustwatch_tv_12%26playableId%3Dtvs.sbd.4000%253AA0012001001%26showId%3Dumc.cmc.6m0i5dcn60uzl206qq6ibomeh&uct_country=fr",
+                            "__typename": "ProductProvider"
+                        }
+                    ]
+                },
+                {
+                    "id": 52095486,
+                    "rating": 6.4,
+                    "slug": "ancestral",
+                    "title": "Ancestral",
+                    "universe": 4,
+                    "url": "/serie/ancestral/52095486",
+                    "yearOfProduction": 2024,
+                    "medias": {
+                        "backdrop": "https://media.senscritique.com/media/000021809280/1200/ancestral.jpg",
+                        "picture": "https://media.senscritique.com/media/000021838549/300/ancestral.jpg",
+                        "screenshot": "https://media.senscritique.com/missing/701/300x0/missing.png",
+                        "__typename": "ProductMedia"
+                    },
+                    "__typename": "Product",
+                    "scoutsAverage": null,
+                    "currentUserInfos": null,
+                    "providers": [
+                        {
+                            "providerId": 1,
+                            "name": "Netflix",
+                            "webUrl": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTItMCIsImRhdGEiOnsicHJvdmlkZXIiOiJOZXRmbGl4IiwibW9uZXRpemF0aW9uVHlwZSI6ImZsYXRyYXRlIiwicHJlc2VudGF0aW9uVHlwZSI6IjRrIiwiY3VycmVuY3kiOiJFVVIiLCJwcmljZSI6MCwib3JpZ2luYWxQcmljZSI6MCwiYXVkaW9MYW5ndWFnZSI6IiIsInN1YnRpdGxlTGFuZ3VhZ2UiOiIiLCJjaW5lbWFJZCI6MCwic2hvd3RpbWUiOiIiLCJpc0Zhdm9yaXRlQ2luZW1hIjpmYWxzZSwicGFydG5lcklkIjo5LCJwcm92aWRlcklkIjo4LCJjbGlja291dFR5cGUiOiJqdy1jb250ZW50LXBhcnRuZXItZXhwb3J0LWFwaSJ9fSx7InNjaGVtYSI6ImlnbHU6Y29tLmp1c3R3YXRjaC90aXRsZV9jb250ZXh0L2pzb25zY2hlbWEvMS0wLTAiLCJkYXRhIjp7InRpdGxlSWQiOjM2OTE1Niwib2JqZWN0VHlwZSI6InNob3ciLCJqd0VudGl0eUlkIjoidHMzNjkxNTYifX1dfQ&r=http%3A%2F%2Fwww.netflix.com%2Ftitle%2F81608592&uct_country=fr",
+                            "__typename": "ProductProvider"
+                        }
+                    ]
+                },
+                {
+                    "id": 50263439,
+                    "rating": 6.5,
+                    "slug": "the_woman_in_the_wall",
+                    "title": "The Woman in the Wall",
+                    "universe": 4,
+                    "url": "/serie/the_woman_in_the_wall/50263439",
+                    "yearOfProduction": 2023,
+                    "medias": {
+                        "backdrop": "https://media.senscritique.com/media/000021505577/1200/the_woman_in_the_wall.jpg",
+                        "picture": "https://media.senscritique.com/media/000021873902/300/the_woman_in_the_wall.jpg",
+                        "screenshot": "https://media.senscritique.com/missing/701/300x0/missing.png",
+                        "__typename": "ProductMedia"
+                    },
+                    "__typename": "Product",
+                    "scoutsAverage": null,
+                    "currentUserInfos": null,
+                    "providers": [
+                        {
+                            "providerId": 4,
+                            "name": "Canal+",
+                            "webUrl": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTItMCIsImRhdGEiOnsicHJvdmlkZXIiOiJDYW5hbCsiLCJtb25ldGl6YXRpb25UeXBlIjoiZmxhdHJhdGUiLCJwcmVzZW50YXRpb25UeXBlIjoiaGQiLCJjdXJyZW5jeSI6IkVVUiIsInByaWNlIjowLCJvcmlnaW5hbFByaWNlIjowLCJhdWRpb0xhbmd1YWdlIjoiIiwic3VidGl0bGVMYW5ndWFnZSI6IiIsImNpbmVtYUlkIjowLCJzaG93dGltZSI6IiIsImlzRmF2b3JpdGVDaW5lbWEiOmZhbHNlLCJwYXJ0bmVySWQiOjksInByb3ZpZGVySWQiOjM4MSwiY2xpY2tvdXRUeXBlIjoianctY29udGVudC1wYXJ0bmVyLWV4cG9ydC1hcGkifX0seyJzY2hlbWEiOiJpZ2x1OmNvbS5qdXN0d2F0Y2gvdGl0bGVfY29udGV4dC9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6eyJ0aXRsZUlkIjozNjM4MDEsIm9iamVjdFR5cGUiOiJzaG93IiwiandFbnRpdHlJZCI6InRzMzYzODAxIn19XX0&r=https%3A%2F%2Fwww.mycanal.fr%2Fseries%2Fthe-woman-in-the-wall%2Fh%2F24071928_50662%3Fparams%5BepisodeId%5D%3D24050375_50662&uct_country=fr",
+                            "__typename": "ProductProvider"
+                        }
+                    ]
+                },
+                {
+                    "id": 70951848,
+                    "rating": 6.3,
+                    "slug": "six_nations_au_contact",
+                    "title": "Six Nations : Au contact",
+                    "universe": 4,
+                    "url": "/serie/six_nations_au_contact/70951848",
+                    "yearOfProduction": 2024,
+                    "medias": {
+                        "backdrop": "https://media.senscritique.com/media/000021880575/1200/six_nations_au_contact.jpg",
+                        "picture": "https://media.senscritique.com/media/000021894600/300/six_nations_au_contact.jpg",
+                        "screenshot": "https://media.senscritique.com/missing/701/300x0/missing.png",
+                        "__typename": "ProductMedia"
+                    },
+                    "__typename": "Product",
+                    "scoutsAverage": null,
+                    "currentUserInfos": null,
+                    "providers": [
+                        {
+                            "providerId": 1,
+                            "name": "Netflix",
+                            "webUrl": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTItMCIsImRhdGEiOnsicHJvdmlkZXIiOiJOZXRmbGl4IiwibW9uZXRpemF0aW9uVHlwZSI6ImZsYXRyYXRlIiwicHJlc2VudGF0aW9uVHlwZSI6IjRrIiwiY3VycmVuY3kiOiJFVVIiLCJwcmljZSI6MCwib3JpZ2luYWxQcmljZSI6MCwiYXVkaW9MYW5ndWFnZSI6IiIsInN1YnRpdGxlTGFuZ3VhZ2UiOiIiLCJjaW5lbWFJZCI6MCwic2hvd3RpbWUiOiIiLCJpc0Zhdm9yaXRlQ2luZW1hIjpmYWxzZSwicGFydG5lcklkIjo5LCJwcm92aWRlcklkIjo4LCJjbGlja291dFR5cGUiOiJqdy1jb250ZW50LXBhcnRuZXItZXhwb3J0LWFwaSJ9fSx7InNjaGVtYSI6ImlnbHU6Y29tLmp1c3R3YXRjaC90aXRsZV9jb250ZXh0L2pzb25zY2hlbWEvMS0wLTAiLCJkYXRhIjp7InRpdGxlSWQiOjM3ODcxMSwib2JqZWN0VHlwZSI6InNob3ciLCJqd0VudGl0eUlkIjoidHMzNzg3MTEifX1dfQ&r=http%3A%2F%2Fwww.netflix.com%2Ftitle%2F81647358&uct_country=fr",
+                            "__typename": "ProductProvider"
+                        }
+                    ]
+                },
+                {
+                    "id": 64230774,
+                    "rating": 7.9,
+                    "slug": "a_shop_for_killers",
+                    "title": "A Shop for Killers",
+                    "universe": 4,
+                    "url": "/serie/a_shop_for_killers/64230774",
+                    "yearOfProduction": 2024,
+                    "medias": {
+                        "backdrop": "https://media.senscritique.com/media/000021817440/1200/a_shop_for_killers.jpg",
+                        "picture": "https://media.senscritique.com/media/000021817441/300/a_shop_for_killers.jpg",
+                        "screenshot": "https://media.senscritique.com/missing/701/300x0/missing.png",
+                        "__typename": "ProductMedia"
+                    },
+                    "__typename": "Product",
+                    "scoutsAverage": null,
+                    "currentUserInfos": null,
+                    "providers": [
+                        {
+                            "providerId": 7,
+                            "name": "Disney+",
+                            "webUrl": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTItMCIsImRhdGEiOnsicHJvdmlkZXIiOiJEaXNuZXkgUGx1cyIsIm1vbmV0aXphdGlvblR5cGUiOiJmbGF0cmF0ZSIsInByZXNlbnRhdGlvblR5cGUiOiI0ayIsImN1cnJlbmN5IjoiRVVSIiwicHJpY2UiOjAsIm9yaWdpbmFsUHJpY2UiOjAsImF1ZGlvTGFuZ3VhZ2UiOiIiLCJzdWJ0aXRsZUxhbmd1YWdlIjoiIiwiY2luZW1hSWQiOjAsInNob3d0aW1lIjoiIiwiaXNGYXZvcml0ZUNpbmVtYSI6ZmFsc2UsInBhcnRuZXJJZCI6OSwicHJvdmlkZXJJZCI6MzM3LCJjbGlja291dFR5cGUiOiJqdy1jb250ZW50LXBhcnRuZXItZXhwb3J0LWFwaSJ9fSx7InNjaGVtYSI6ImlnbHU6Y29tLmp1c3R3YXRjaC90aXRsZV9jb250ZXh0L2pzb25zY2hlbWEvMS0wLTAiLCJkYXRhIjp7InRpdGxlSWQiOjM3MzE2Niwib2JqZWN0VHlwZSI6InNob3ciLCJqd0VudGl0eUlkIjoidHMzNzMxNjYifX1dfQ&r=https%3A%2F%2Fdisneyplus.bn5x.net%2Fc%2F1206980%2F705874%2F9358%3Fu%3Dhttps%253A%252F%252Fwww.disneyplus.com%252Fseries%252Fa-shop-for-killers%252F6pcuvK0SUuHI%26subId3%3Djustappsvod&uct_country=fr",
+                            "__typename": "ProductProvider"
+                        }
+                    ]
+                },
+                {
+                    "id": 56528316,
+                    "rating": 6.8,
+                    "slug": "enterrement_de_vie_de_garcon",
+                    "title": "Enterrement de vie de garçon",
+                    "universe": 4,
+                    "url": "/serie/enterrement_de_vie_de_garcon/56528316",
+                    "yearOfProduction": 2024,
+                    "medias": {
+                        "backdrop": "https://media.senscritique.com/media/000021883616/1200/enterrement_de_vie_de_garcon.jpg",
+                        "picture": "https://media.senscritique.com/media/000021880234/300/enterrement_de_vie_de_garcon.jpg",
+                        "screenshot": "https://media.senscritique.com/missing/701/300x0/missing.png",
+                        "__typename": "ProductMedia"
+                    },
+                    "__typename": "Product",
+                    "scoutsAverage": null,
+                    "currentUserInfos": null,
+                    "providers": [
+                        {
+                            "providerId": 4,
+                            "name": "Canal+",
+                            "webUrl": "https://click.justwatch.com/a?cx=eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uanVzdHdhdGNoL2NsaWNrb3V0X2NvbnRleHQvanNvbnNjaGVtYS8xLTItMCIsImRhdGEiOnsicHJvdmlkZXIiOiJDYW5hbCsiLCJtb25ldGl6YXRpb25UeXBlIjoiZmxhdHJhdGUiLCJwcmVzZW50YXRpb25UeXBlIjoiaGQiLCJjdXJyZW5jeSI6IkVVUiIsInByaWNlIjowLCJvcmlnaW5hbFByaWNlIjowLCJhdWRpb0xhbmd1YWdlIjoiIiwic3VidGl0bGVMYW5ndWFnZSI6IiIsImNpbmVtYUlkIjowLCJzaG93dGltZSI6IiIsImlzRmF2b3JpdGVDaW5lbWEiOmZhbHNlLCJwYXJ0bmVySWQiOjksInByb3ZpZGVySWQiOjM4MSwiY2xpY2tvdXRUeXBlIjoianctY29udGVudC1wYXJ0bmVyLWV4cG9ydC1hcGkifX0seyJzY2hlbWEiOiJpZ2x1OmNvbS5qdXN0d2F0Y2gvdGl0bGVfY29udGV4dC9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6eyJ0aXRsZUlkIjo0MTgwNzMsIm9iamVjdFR5cGUiOiJzaG93IiwiandFbnRpdHlJZCI6InRzNDE4MDczIn19XX0&r=https%3A%2F%2Fwww.mycanal.fr%2Fseries%2Fenterrement-de-vie-de-garcon%2Fh%2F23440591_50001%3Fparams%5BepisodeId%5D%3D23437960_50001&uct_country=fr",
+                            "__typename": "ProductProvider"
+                        }
+                    ]
+                }
+            ],
+            "total": 20,
+            "__typename": "StreamingExplorer"
+        }
+    }
+}
