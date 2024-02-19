@@ -11,6 +11,8 @@ import os
 
 load_dotenv()
 directory_path = os.getenv("DIRECTORY_PATH_DATA_TOP_FILMS_SC")
+titles = []
+years = []
 
 def FindImageGoogle(Titre:str):
 
@@ -95,11 +97,34 @@ def GetFileContent(File_Name:str):
     content = LectureJson(CompletePath)
     return content
 
-def GetLabelFilm(content:dict):
+def GetLabelFilm(obj:dict):
+
+    if isinstance(obj, dict):
+        for key, value in obj.items():
+            if key == 'title':
+                titles.append(value)
+            else:
+                GetLabelFilm(value)
+    elif isinstance(obj, list):
+        for item in obj:
+            GetLabelFilm(item)
+    return titles
+
+def GetYearFilm(obj):
     
-    for lines in content:
-        for line in lines:
-            print(line)
+    if isinstance(obj, dict):
+        for key, value in obj.items():
+            if key == 'yearOfProduction':
+                years.append(value)
+            else:
+                GetYearFilm(value)
+    elif isinstance(obj, list):
+        for item in obj:
+            GetYearFilm(item)
+    return years
+
+def zipDict():
+    return dict(zip(titles, years))
 
     # YggDict = {}
     # CleanDict = {}
@@ -126,6 +151,14 @@ def GetLabelFilm(content:dict):
     # print(Url)
     # return CleanDict
 
+def GetProduct(content:dict):
+    
+    for lines in content['data']['poll']['products'][0]['title']:
+        print(content['data']['poll']['products'][0]['title'])
+        
+# Ajouter la date et la concatener au titre
+# Faire recherche sur Ygg
+# Recuperer la veleur et l'ajouter dans le fichier existant
 # Faire fonction pour recuperer la liste des fichiers dans un dossier -> Pour chaque fichier, récupérer pour chaque film, la liste des URL de ygg 
 # et les ajouter sous ce format là  
                     # "YggUrl": [ 

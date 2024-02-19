@@ -3,7 +3,7 @@ from GetName.TorrentName import GetNames, FindImageGoogle
 from GetName.TraitementChaine import SuppressionCharVide
 from GetName.TorrentSeedLeech import GetSeedLeech
 from Web.FonctionHtml import GenerateurDivMain
-from GetName.TorrentName import AddUrlYggInDb_SC
+from GetName.TorrentName import GetFileContent, GetLabelFilm, GetYearFilm, GetProduct
 
 import json
 
@@ -24,4 +24,15 @@ if __name__ == '__main__':
     # with open("./Data/Section.json", "w") as f:
     #     json.dump(DictNames, f)
     
-    AddUrlYggInDb_SC('Shining 1980')
+    FileContent = GetFileContent("SC_Les meilleurs films de 2022.json")
+    titles = GetLabelFilm(FileContent)
+    print(titles)
+    
+    years = GetYearFilm(FileContent)
+    print(years)
+    
+    dictionnaire_resultat = dict(zip(titles, years))
+    print(dictionnaire_resultat)
+    
+    GetProduct(FileContent)
+    
