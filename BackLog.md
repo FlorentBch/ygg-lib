@@ -33,3 +33,9 @@ Scraper chaque dimanche dans la nuit pour récupérer les données hebdomadaire 
 Pourquoi pas se focaliser uniquements sur les films et series en premier lieu et exlure les autres torrent ?
 
 Faire une partie film et serie animé (MyAnimeList ?)
+ 
+Faire un genre de mood board avec des style de films pour recommandations avec fonctionnalité aléatoires (ex je check le picto thriller, comedie et il me propose 3 films associés)
+
+Suggestions aleatoire
+
+rajouter des comptes pour historique, Vu, et favoris
